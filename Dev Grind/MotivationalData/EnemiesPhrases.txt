@@ -1,0 +1,99 @@
+[DIALOGUE:001] [TEXT:"Oh look, you're doing affirmations. Keep telling yourself you're special; maybe the universe will eventually stop laughing."] [MOOD:Condescending] [END]
+
+[DIALOGUE:002] [TEXT:"Your 'five-year plan' looks less like a roadmap and more like a suicide note written in crayon."] [MOOD:Brutal] [END]
+
+[DIALOGUE:003] [TEXT:"I love how you call it a 'journey of self-discovery.' It's actually just unemployment and bad decision-making."] [MOOD:Sarcastic] [END]
+
+[DIALOGUE:004] [TEXT:"You're not a 'late bloomer,' darling. You're just a weed that refuses to die."] [MOOD:Venomous] [END]
+
+[DIALOGUE:005] [TEXT:"'Trust the process?' The process is trying to eliminate you via natural selection. Take a hint."] [MOOD:Scientific] [END]
+
+[DIALOGUE:006] [TEXT:"Your chakras aren't blocked. Your personality is just constipated."] [MOOD:Disgusted] [END]
+
+[DIALOGUE:007] [TEXT:"Stop trying to 'heal your inner child.' That kid was annoying then, and they're annoying now. Lock them in the basement."] [MOOD:Cruel] [END]
+
+[DIALOGUE:008] [TEXT:"You radiate the energy of a damp sock found behind a radiator in a public restroom."] [MOOD:Descriptive] [END]
+
+[DIALOGUE:009] [TEXT:"Manifesting? You can't even manifest matching socks, let alone a destiny."] [MOOD:Mocking] [END]
+
+[DIALOGUE:010] [TEXT:"I'd say 'shoot for the stars,' but with your aim, you'd hit a satellite and owe the government billions."] [MOOD:Practical] [END]
+
+[DIALOGUE:011] [TEXT:"You call it 'grindset.' I call it 'compensating for a lack of talent with excessive caffeine.'"] [MOOD:Bored] [END]
+
+[DIALOGUE:012] [TEXT:"Your ancestors survived plagues, wars, and famine just so you could have a panic attack about an email."] [MOOD:Historical] [END]
+
+[DIALOGUE:013] [TEXT:"Every time you talk about 'good vibes,' a puppy loses its will to live."] [MOOD:Tragic] [END]
+
+[DIALOGUE:014] [TEXT:"You're not an empath. You're just emotionally unstable and make everything about yourself."] [MOOD:Analytical] [END]
+
+[DIALOGUE:015] [TEXT:"Be the change you want to see? Please don't. I don't want to see any more of you."] [MOOD:Dismissive] [END]
+
+[DIALOGUE:016] [TEXT:"Your comfort zone is the only place you're actually competent. Stay there. Rot there."] [MOOD:Aggressive] [END]
+
+[DIALOGUE:017] [TEXT:"Rome wasn't built in a day, but your reputation for failure was built in seconds."] [MOOD:Witty] [END]
+
+[DIALOGUE:018] [TEXT:"Is this your 'villain arc'? Because you look less like a villain and more like the first guy who dies in a horror movie."] [MOOD:Meta] [END]
+
+[DIALOGUE:019] [TEXT:"Self-love is great, but in your case, I think you should see other people."] [MOOD:Dating] [END]
+
+[DIALOGUE:020] [TEXT:"You're glowing! Oh wait, that's just the sheen of desperate sweat."] [MOOD:Observant] [END]
+
+[DIALOGUE:021] [TEXT:"'Fake it 'til you make it' only works if you don't look this incompetent while faking it."] [MOOD:Advice] [END]
+
+[DIALOGUE:022] [TEXT:"Your aura is the color of hot dog water."] [MOOD:Spiritual] [END]
+
+[DIALOGUE:023] [TEXT:"Why do you meditate? To get in touch with your inner void? Spoiler alert: It's empty too."] [MOOD:Nihilistic] [END]
+
+[DIALOGUE:024] [TEXT:"You're the human equivalent of a participation trophy given to the wrong kid."] [MOOD:Insulting] [END]
+
+[DIALOGUE:025] [TEXT:"I admire your persistence. It takes real courage to be this consistently wrong."] [MOOD:Impressed] [END]
+
+[DIALOGUE:026] [TEXT:"Don't quit your day job. Actually, do. You're bad at that, too."] [MOOD:Helpful] [END]
+
+[DIALOGUE:027] [TEXT:"You say 'boundary setting,' I say 'burning bridges because you have zero social skills.'"] [MOOD:Honest] [END]
+
+[DIALOGUE:028] [TEXT:"The only thing you're 'attracting' with the Law of Attraction is debt and disappointment."] [MOOD:Financial] [END]
+
+[DIALOGUE:029] [TEXT:"You're one 'live, laugh, love' sign away from a total mental collapse."] [MOOD:Warning] [END]
+
+[DIALOGUE:030] [TEXT:"Your potential is like a unicorn. Imaginary, and adults shouldn't believe in it."] [MOOD:Fantasy] [END]
+
+[DIALOGUE:031] [TEXT:"Pain is weakness leaving the body? No, that's just your body realizing it hates you."] [MOOD:Physical] [END]
+
+[DIALOGUE:032] [TEXT:"You're not 'complex,' you're just poorly written."] [MOOD:Literary] [END]
+
+[DIALOGUE:033] [TEXT:"Keep reaching for the stars. It keeps your hands away from things you might break."] [MOOD:Safety] [END]
+
+[DIALOGUE:034] [TEXT:"I'd roast you, but nature already did a pretty thorough job."] [MOOD:Hot] [END]
+
+[DIALOGUE:035] [TEXT:"You treat your body like a temple? It looks more like a condemned crack house."] [MOOD:Architectural] [END]
+
+[DIALOGUE:036] [TEXT:"Just be yourself? That's terrible advice. Be anyone else."] [MOOD:Urgent] [END]
+
+[DIALOGUE:037] [TEXT:"Your life is a masterclass in how to lower expectations."] [MOOD:Academic] [END]
+
+[DIALOGUE:038] [TEXT:"You're not burnt out. You were never lit in the first place."] [MOOD:Cold] [END]
+
+[DIALOGUE:039] [TEXT:"Gratitude journal? Write this down: 'I am grateful nobody can hear my internal monologue.'"] [MOOD:Journaling] [END]
+
+[DIALOGUE:040] [TEXT:"If ignorance is bliss, you must be the happiest organism on the planet."] [MOOD:Joyful] [END]
+
+[DIALOGUE:041] [TEXT:"You strive for excellence but consistently land on 'adequate-minus'."] [MOOD:Grading] [END]
+
+[DIALOGUE:042] [TEXT:"Your spirit animal is a sloth with a Xanax addiction."] [MOOD:Zoological] [END]
+
+[DIALOGUE:043] [TEXT:"I've seen wet cardboard with more structural integrity than your willpower."] [MOOD:Material] [END]
+
+[DIALOGUE:044] [TEXT:"There is no 'I' in team, but there is a 'U' in failure. Quite a few of them, actually."] [MOOD:Grammatical] [END]
+
+[DIALOGUE:045] [TEXT:"You're leveling up? Cute. The game is unplugged, idiot."] [MOOD:Gaming] [END]
+
+[DIALOGUE:046] [TEXT:"Don't worry, rock bottom has a basement. I'll help you dig."] [MOOD:Supportive] [END]
+
+[DIALOGUE:047] [TEXT:"Your autobiography should be titled 'The Audacity of Hopelessness'."] [MOOD:Publishing] [END]
+
+[DIALOGUE:048] [TEXT:"Clean your room, clean your mind? You're gonna need a hazmat suit for both."] [MOOD:Hygienic] [END]
+
+[DIALOGUE:049] [TEXT:"You're not a diamond in the rough. You're a piece of coal that's just... staying coal."] [MOOD:Geological] [END]
+
+[DIALOGUE:050] [TEXT:"Go ahead, seize the day. It's slippery, and you have butterfingers."] [MOOD:Final] [END]

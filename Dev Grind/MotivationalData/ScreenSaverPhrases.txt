@@ -1,0 +1,249 @@
+[PHRASE:001]
+[TEXT:"You're not procrastinating, you're 'strategically delaying success' to build anticipation."]
+[CATEGORY:Productivity]
+[END]
+
+[PHRASE:002]
+[TEXT:"Your comfort zone is just a poorly decorated prison. At least make it Instagram-worthy."]
+[CATEGORY:Growth]
+[END]
+
+[PHRASE:003]
+[TEXT:"Remember: Every billionaire started as someone who ignored their family to check emails."]
+[CATEGORY:Success]
+[END]
+
+[PHRASE:004]
+[TEXT:"Meditation isn't for calming down, it's for plotting world domination with better focus."]
+[CATEGORY:Mindfulness]
+[END]
+
+[PHRASE:005]
+[TEXT:"Your 'side hustle' is just your main hustle that pays less and gives you anxiety."]
+[CATEGORY:Hustle]
+[END]
+
+[PHRASE:006]
+[TEXT:"They said 'follow your dreams.' They didn't say your dreams would require Excel skills."]
+[CATEGORY:Career]
+[END]
+
+[PHRASE:007]
+[TEXT:"Self-care isn't bubble baths. It's ignoring texts from people who drain your energy battery."]
+[CATEGORY:SelfCare]
+[END]
+
+[PHRASE:008]
+[TEXT:"Your potential is like that gym membership you pay for but never use. Expensive and sad."]
+[CATEGORY:Potential]
+[END]
+
+[PHRASE:009]
+[TEXT:"Goal setting: Writing down things you'll feel guilty about not doing next year."]
+[CATEGORY:Goals]
+[END]
+
+[PHRASE:010]
+[TEXT:"Manifesting: When you're too lazy to make a plan but still want to feel in control."]
+[CATEGORY:Manifestation]
+[END]
+
+[PHRASE:011]
+[TEXT:"Morning routines are just elaborate ways to delay checking your bank balance."]
+[CATEGORY:Morning]
+[END]
+
+[PHRASE:012]
+[TEXT:"Your brain at 3 AM: 'Let's solve all life's problems and also remember that embarrassing thing from 2007.'"]
+[CATEGORY:Mind]
+[END]
+
+[PHRASE:013]
+[TEXT:"Productivity tip: Do the thing. Or don't. Either way, we're all going to die someday."]
+[CATEGORY:Productivity]
+[END]
+
+[PHRASE:014]
+[TEXT:"Personal development is just collecting insecurities and calling them 'growth opportunities.'"]
+[CATEGORY:Growth]
+[END]
+
+[PHRASE:015]
+[TEXT:"Networking: Making friends you don't like for money you probably won't get."]
+[CATEGORY:Networking]
+[END]
+
+[PHRASE:016]
+[TEXT:"Work-life balance: Crying equally at home and at work for consistency."]
+[CATEGORY:Balance]
+[END]
+
+[PHRASE:017]
+[TEXT:"Confidence is just pretending you know what you're doing until it becomes true. Or you get fired."]
+[CATEGORY:Confidence]
+[END]
+
+[PHRASE:018]
+[TEXT:"Mindset shift: Calling your anxiety 'excitement' until you have a panic attack at Target."]
+[CATEGORY:Mindset]
+[END]
+
+[PHRASE:019]
+[TEXT:"Your passion project is just a hobby that's allowed to lose money."]
+[CATEGORY:Passion]
+[END]
+
+[PHRASE:020]
+[TEXT:"Financial freedom is when your passive income exceeds your passive aggressive comments."]
+[CATEGORY:Finance]
+[END]
+
+[PHRASE:021]
+[TEXT:"Imposter syndrome means you're doing something right. Or you're actually an imposter. 50/50."]
+[CATEGORY:Success]
+[END]
+
+[PHRASE:022]
+[TEXT:"Discipline is choosing between what you want now and what you want most. Usually it's snacks."]
+[CATEGORY:Discipline]
+[END]
+
+[PHRASE:023]
+[TEXT:"Your personal brand is just your personality with a LinkedIn filter."]
+[CATEGORY:Branding]
+[END]
+
+[PHRASE:024]
+[TEXT:"Motivation is temporary. Crippling fear of being average is forever."]
+[CATEGORY:Motivation]
+[END]
+
+[PHRASE:025]
+[TEXT:"Self-improvement: The art of replacing one set of problems with more expensive problems."]
+[CATEGORY:Improvement]
+[END]
+
+[PHRASE:026]
+[TEXT:"Gratitude journal: Writing down things that haven't gone wrong... yet."]
+[CATEGORY:Gratitude]
+[END]
+
+[PHRASE:027]
+[TEXT:"Your boundaries are just polite ways to say 'I will ghost you if you cross this line.'"]
+[CATEGORY:Boundaries]
+[END]
+
+[PHRASE:028]
+[TEXT:"Life coach: Someone who helps you achieve your dreams for the low price of your dreams."]
+[CATEGORY:Coaching]
+[END]
+
+[PHRASE:029]
+[TEXT:"Your purpose isn't found, it's manufactured through trial, error, and desperation."]
+[CATEGORY:Purpose]
+[END]
+
+[PHRASE:030]
+[TEXT:"Positive affirmations: Lying to yourself until your subconscious believes it or calls BS."]
+[CATEGORY:Affirmations]
+[END]
+
+[PHRASE:031]
+[TEXT:"Maximizing potential is just minimizing time spent scrolling through ex's social media."]
+[CATEGORY:Potential]
+[END]
+
+[PHRASE:032]
+[TEXT:"Adulting is pretending you know how to do taxes while secretly using last year's numbers."]
+[CATEGORY:Adulting]
+[END]
+
+[PHRASE:033]
+[TEXT:"Your vision board is just a collage of things you can't afford with current life choices."]
+[CATEGORY:Vision]
+[END]
+
+[PHRASE:034]
+[TEXT:"Resilience is what you call it when you're too stubborn to admit you're miserable."]
+[CATEGORY:Resilience]
+[END]
+
+[PHRASE:035]
+[TEXT:"Time management: The illusion that you control time and not that it controls you."]
+[CATEGORY:Time]
+[END]
+
+[PHRASE:036]
+[TEXT:"Your comfort food isn't comforting. It's just edible regret with extra cheese."]
+[CATEGORY:Wellness]
+[END]
+
+[PHRASE:037]
+[TEXT:"Leadership is being slightly less confused than everyone else and pretending it's a plan."]
+[CATEGORY:Leadership]
+[END]
+
+[PHRASE:038]
+[TEXT:"Your inner child isn't wounded. It's just disappointed you became this boring."]
+[CATEGORY:Healing]
+[END]
+
+[PHRASE:039]
+[TEXT:"Minimalism is when you're too poor to buy things and call it a lifestyle choice."]
+[CATEGORY:Lifestyle]
+[END]
+
+[PHRASE:040]
+[TEXT:"Your morning affirmations work 100% of the time, 30% of the time."]
+[CATEGORY:Morning]
+[END]
+
+[PHRASE:041]
+[TEXT:"Success is when your haters become your biggest fans while secretly still hating you."]
+[CATEGORY:Success]
+[END]
+
+[PHRASE:042]
+[TEXT:"Your spiritual journey is just anxiety with better branding and expensive candles."]
+[CATEGORY:Spirituality]
+[END]
+
+[PHRASE:043]
+[TEXT:"Goal crushing: Achieving things that looked better on a vision board than in reality."]
+[CATEGORY:Goals]
+[END]
+
+[PHRASE:044]
+[TEXT:"Your personal growth is measured in therapy bills per month. Higher cost, more growth."]
+[CATEGORY:Growth]
+[END]
+
+[PHRASE:045]
+[TEXT:"Work smarter, not harder: A concept invented by people who are bad at both."]
+[CATEGORY:Productivity]
+[END]
+
+[PHRASE:046]
+[TEXT:"Your authentic self is probably someone you'd swipe left on in dating apps."]
+[CATEGORY:Authenticity]
+[END]
+
+[PHRASE:047]
+[TEXT:"Mental health day: When your brain takes a sick day but your body still has bills."]
+[CATEGORY:MentalHealth]
+[END]
+
+[PHRASE:048]
+[TEXT:"Your life hack is just a normal thing with a cooler name and more steps."]
+[CATEGORY:Hacks]
+[END]
+
+[PHRASE:049]
+[TEXT:"Financial literacy is understanding that avocado toast isn't the problem; capitalism is."]
+[CATEGORY:Finance]
+[END]
+
+[PHRASE:050]
+[TEXT:"The best version of you is probably still pretty mediocre, but at least you tried."]
+[CATEGORY:Final]
+[END]
