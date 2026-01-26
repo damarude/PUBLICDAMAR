@@ -1,0 +1,259 @@
+[CHALLENGE_CATEGORY: GAME DEV]
+
+[CHALLENGE_DATA: Unity]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/GAME%20DEV/CHALLENGE_UNITY.txt
+[END]
+
+[CHALLENGE_DATA: Unreal Engine]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/GAME%20DEV/CHALLENGE_UNREAL_ENGINE.txt
+[END]
+
+[CHALLENGE_DATA: Godot]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/GAME%20DEV/CHALLENGE_GODOT.txt
+[END]
+
+[CHALLENGE_DATA: Blender]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/GAME%20DEV/CHALLENGE_BLENDER.txt
+[END]
+
+[CHALLENGE_DATA: ZBrush]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/GAME%20DEV/CHALLENGE_ZBRUSH.txt
+[END]
+
+[CHALLENGE_DATA: Maya]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/GAME%20DEV/CHALLENGE_MAYA.txt
+[END]
+
+[CHALLENGE_DATA: Substance Painter]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/GAME%20DEV/CHALLENGE_SUBSTANCE_PAINTER.txt
+[END]
+
+[CHALLENGE_DATA: Marvelous Designer]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/GAME%20DEV/CHALLENGE_MARVELOUS_DESIGNER.txt
+[END]
+
+[CHALLENGE_DATA: Level Design]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/GAME%20DEV/CHALLENGE_LEVEL_DESIGN.txt
+[END]
+
+
+[CHALLENGE_CATEGORY: PROGRAMMING]
+
+[CHALLENGE_DATA: Python]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/PROGRAMMING/CHALLENGE_PYTHON.txt
+[END]
+
+[CHALLENGE_DATA: JavaScript]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/PROGRAMMING/CHALLENGE_JAVASCRIPT.txt
+[END]
+
+[CHALLENGE_DATA: TypeScript]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/PROGRAMMING/CHALLENGE_TYPESCRIPT.txt
+[END]
+
+[CHALLENGE_DATA: C#]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/PROGRAMMING/CHALLENGE_CSHARP.txt
+[END]
+
+[CHALLENGE_DATA: C++]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/PROGRAMMING/CHALLENGE_CPP.txt
+[END]
+
+[CHALLENGE_DATA: Rust]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/PROGRAMMING/CHALLENGE_RUST.txt
+[END]
+
+[CHALLENGE_DATA: Go]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/PROGRAMMING/CHALLENGE_GO.txt
+[END]
+
+[CHALLENGE_DATA: Java]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/PROGRAMMING/CHALLENGE_JAVA.txt
+[END]
+
+[CHALLENGE_DATA: Swift]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/PROGRAMMING/CHALLENGE_SWIFT.txt
+[END]
+
+[CHALLENGE_DATA: React]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/PROGRAMMING/CHALLENGE_REACT.txt
+[END]
+
+
+
+[CHALLENGE_CATEGORY: VIDEO]
+
+[CHALLENGE_DATA: Premiere Pro]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/VIDEO/CHALLENGE_PREMIERE_PRO.txt
+[END]
+
+[CHALLENGE_DATA: After Effects]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/VIDEO/CHALLENGE_AFTER_EFFECTS.txt
+[END]
+
+[CHALLENGE_DATA: DaVinci Resolve]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/VIDEO/CHALLENGE_DAVINCI_RESOLVE.txt
+[END]
+
+[CHALLENGE_DATA: Final Cut]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/VIDEO/CHALLENGE_FINAL_CUT.txt
+[END]
+
+[CHALLENGE_DATA: CapCut]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/VIDEO/CHALLENGE_CAPCUT.txt
+[END]
+
+[CHALLENGE_DATA: Color Grading]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/VIDEO/CHALLENGE_COLOR_GRADING.txt
+[END]
+
+[CHALLENGE_DATA: VFX]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/VIDEO/CHALLENGE_VFX.txt
+[END]
+
+
+[CHALLENGE_CATEGORY: AUDIO]
+
+[CHALLENGE_DATA: Ableton Live]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/AUDIO/CHALLENGE_ABLETON_LIVE.txt
+[END]
+
+[CHALLENGE_DATA: FL Studio]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/AUDIO/CHALLENGE_FL_STUDIO.txt
+[END]
+
+[CHALLENGE_DATA: Pro Tools]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/AUDIO/CHALLENGE_PRO_TOOLS.txt
+[END]
+
+[CHALLENGE_DATA: Audacity]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/AUDIO/CHALLENGE_AUDACITY.txt
+[END]
+
+[CHALLENGE_DATA: Sound Design]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/AUDIO/CHALLENGE_SOUND_DESIGN.txt
+[END]
+
+[CHALLENGE_DATA: Mixing]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/AUDIO/CHALLENGE_MIXING.txt
+[END]
+
+[CHALLENGE_DATA: Mastering]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/AUDIO/CHALLENGE_MASTERING.txt
+[END]
+
+
+[CHALLENGE_CATEGORY: LANGUAGE]
+
+[CHALLENGE_DATA: Japanese]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/LANGUAGE/CHALLENGE_JAPANESE.txt
+[END]
+
+[CHALLENGE_DATA: Jawa]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/LANGUAGE/CHALLENGE_JAWA.txt
+[END]
+
+[CHALLENGE_DATA: Spanish]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/LANGUAGE/CHALLENGE_SPANISH.txt
+[END]
+
+[CHALLENGE_DATA: Russian]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/LANGUAGE/CHALLENGE_RUSSIAN.txt
+[END]
+
+[CHALLENGE_DATA: Italian]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/LANGUAGE/CHALLENGE_ITALIAN.txt
+[END]
+
+[CHALLENGE_DATA: English]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/LANGUAGE/CHALLENGE_ENGLISH.txt
+[END]
+
+[CHALLENGE_DATA: French]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/LANGUAGE/CHALLENGE_FRENCH.txt
+[END]
+
+[CHALLENGE_DATA: Mandarin]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/LANGUAGE/CHALLENGE_MANDARIN.txt
+[END]
+
+[CHALLENGE_DATA: Arabic]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/LANGUAGE/CHALLENGE_ARABIC.txt
+[END]
+
+[CHALLENGE_DATA: Bahasa Indonesia]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/LANGUAGE/CHALLENGE_BAHASA_INDONESIA.txt
+[END]
+
+[CHALLENGE_DATA: German]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/LANGUAGE/CHALLENGE_GERMAN.txt
+[END]
+
+[CHALLENGE_DATA: Korean]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/LANGUAGE/CHALLENGE_KOREAN.txt
+[END]
+
+[CHALLENGE_DATA: Portuguese]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/LANGUAGE/CHALLENGE_PORTUGUESE.txt
+[END]
+
+
+[CHALLENGE_CATEGORY: AI]
+
+[CHALLENGE_DATA: Prompt Engineering]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/AI/CHALLENGE_PROMPT_ENGINEERING.txt
+[END]
+
+[CHALLENGE_DATA: Stable Diffusion]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/AI/CHALLENGE_STABLE_DIFFUSION.txt
+[END]
+
+[CHALLENGE_DATA: Midjourney]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/AI/CHALLENGE_MIDJOURNEY.txt
+[END]
+
+[CHALLENGE_DATA: LLM Fine-tuning]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/AI/CHALLENGE_LLM_FINE_TUNING.txt
+[END]
+
+[CHALLENGE_DATA: Python for AI]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/AI/CHALLENGE_PYTHON_FOR_AI.txt
+[END]
+
+[CHALLENGE_DATA: Machine Learning]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/AI/CHALLENGE_MACHINE_LEARNING.txt
+[END]
+
+
+[CHALLENGE_CATEGORY: BASIC]
+
+[CHALLENGE_DATA: Touch Typing]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/BASIC/CHALLENGE_TOUCH_TYPING.txt
+[END]
+
+[CHALLENGE_DATA: Excel]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/BASIC/CHALLENGE_EXCEL.txt
+[END]
+
+[CHALLENGE_DATA: PowerPoint]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/BASIC/CHALLENGE_POWERPOINT.txt
+[END]
+
+[CHALLENGE_DATA: Obsidian]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/BASIC/CHALLENGE_OBSIDIAN.txt
+[END]
+
+[CHALLENGE_DATA: Notion]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/BASIC/CHALLENGE_NOTION.txt
+[END]
+
+[CHALLENGE_DATA: Linux Basics]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/BASIC/CHALLENGE_LINUX_BASICS.txt
+[END]
+
+
+[CHALLENGE_CATEGORY: OTHER]
+
+[CHALLENGE_DATA: Fry Pan Meister]
+LINK: https://raw.githubusercontent.com/damarude/PUBLICDAMAR/main/Dev%20Grind/ChallengeData/CUSTOM/CHALLENGE_FRYPANMEISTER.txt
+[END]
