@@ -433,7 +433,7 @@
 [SUBSTAT6:Reduce Challenge Gold Cost 6%]
 [SUBSTAT7:CritDmg +30%]
 [SUBSTAT8:All Skill Exp +8%]
-[SUBSTAT9:Stun +1.25%]
+[SUBSTAT9:Stun +2.24%]
 [DESCRIPTION:You don't earn money; you define it. Economies rise and fall based on your morning mood. Inflation is a personal setting. The concept of 'cost' asks for your autograph.]
 [END]
 
@@ -873,7 +873,7 @@ BODY - HP (%)
 [SUBSTAT6:Reduce Challenge Gold Cost 6%]
 [SUBSTAT7:CritDmg +30%]
 [SUBSTAT8:All Skill Exp +8%]
-[SUBSTAT9:Stun +1.25%]
+[SUBSTAT9:Stun +2.24%]
 [DESCRIPTION:You don't move through space-time; space-time politely gets out of your way. Your morning commute is a memory you haven't had yet. Responsibility can't find your forwarding address.]
 [END]
 
@@ -1314,7 +1314,7 @@ BODY - HP (%)
 [SUBSTAT6:Reduce Challenge Gold Cost 6%]
 [SUBSTAT7:CritDmg +30%]
 [SUBSTAT8:All Skill Exp +8%]
-[SUBSTAT9:Stun +1.25%]
+[SUBSTAT9:Stun +2.24%]
 [DESCRIPTION:You don't walk through spacetime; spacetime politely steps aside. Your morning commute is a rumor. Responsibility lost your forwarding address in 2019 and never recovered.]
 [END]
 
@@ -1757,7 +1757,7 @@ RIGHT HAND - Total Attack (%)
 [SUBSTAT6:Reduce Challenge Gold Cost 6%]
 [SUBSTAT7:CritDmg +30%]
 [SUBSTAT8:All Skill Exp +8%]
-[SUBSTAT9:Stun +1.25%]
+[SUBSTAT9:Stun +2.24%]
 [DESCRIPTION:Erases concepts from existence. Today you removed "work-life balance" from the lexicon. Tomorrow, "weekends."]
 [END]
 
@@ -2199,7 +2199,7 @@ RIGHT HAND - Total Attack (%)
 [SUBSTAT6:Reduce Challenge Gold Cost 6%]
 [SUBSTAT7:CritDmg +30%]
 [SUBSTAT8:All Skill Exp +8%]
-[SUBSTAT9:Stun +1.25%]
+[SUBSTAT9:Stun +2.24%]
 [DESCRIPTION:The flip side of every problem. While others face consequences, you examine interesting patterns in the ceiling.]
 [END]
 
@@ -2642,6 +2642,6 @@ ACCESSORY - CritRate (%) (Same as original)
 [SUBSTAT6:Reduce Challenge Gold Cost 6%]
 [SUBSTAT7:CritDmg +30%]
 [SUBSTAT8:All Skill Exp +8%]
-[SUBSTAT9:Stun +1.25%]
+[SUBSTAT9:Stun +2.24%]
 [DESCRIPTION:Luck is no longer a factor. You are the house. The deck is always stacked, the dice are loaded, and the wheel has a magnet with your name on it. The concept of "fair play" asks you for a job.]
 [END]
