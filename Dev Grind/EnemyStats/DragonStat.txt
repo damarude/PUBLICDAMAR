@@ -1,0 +1,210 @@
+[MAINSTAT]
+[APPEARCHANCE: 35%]
+[HP: 240%]
+[DMG: 150%]
+[CRIT: 150%]
+[ASPD: 110%]
+[BLOCK: 70%]
+[CRITDMG: 300%]
+[STUN: 150%]
+[BARRAGE: 30%]
+[END]
+
+[FILENAME: D1]
+[RACE: DRAGON]
+[SIZE: 160]
+[NAME: Babel]
+[TITLE: The Overambitious Dream]
+[RANK: PROFESSIONAL]
+
+[LORE1:
+Babel is a magnificent but tragically flawed construct. Built from mismatched scrap metal, rusted gears, and completely incompatible armor plates, it somehow manages to take flight using tattered wings of pure, volatile blue energy. It is a massive creature trying to carry a weight it wasn't built for.
+[END]
+[LORE2:
+In the grand RPG of your life, Babel represents the ultimate developer trap: "The Dream MMO." It usually attacks early in your career, taking the form of a massive, open-world, cross-platform multiplayer epic with a fully simulated economy, designed by a solo developer who just learned how to compile code.
+[END]
+[LORE3:
+Its incredible 300% Crit Damage represents the massive bursts of initial motivation you feel when daydreaming about the game's eventual release and e-sports tournaments. But its frail, patchwork body shows the reality: your foundational code cannot support the sheer scale of your imagination.
+[END]
+[LORE4:
+In combat, Babel attacks your rationality. It dazzles you with its glowing blue wings, convincing you to spend six months writing deep lore for factions and designing massive raid bosses instead of programming a working main menu or a basic save system.
+[END]
+[LORE5:
+Defeating this Professional-tier beast requires a heartbreaking realization. You must ground the dragon, strip away the impossible MMO features, and ruthlessly scale the massive dream down to a playable, single-player prototype. You have to slay the dream to actually finish a game.
+[END]
+[LORE6:
+[END]
+[LORE7:
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:ATK_DMG | VAL:2.4 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:CRIT_RATE | VAL:1.2% | TITLE:The Overambitious Dream]
+[HUNTED:333 | LORE:3 | STAT:ATK_DMG | VAL:4.8 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:CRIT_RATE | VAL:1.8% | TITLE:NULL]
+[HUNTED:6666 | LORE:5 | STAT:ATK_DMG | VAL:9.6 | TITLE:NULL]
+[HUNTED:33333 | LORE:NULL | STAT:CRIT_RATE | VAL:3% | TITLE:NULL]
+[HUNTED:99999 | LORE:NULL | STAT:CRIT_DMG | VAL:6% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The Scope Scaler]
+
+[FILENAME: D2]
+[RACE: DRAGON]
+[SIZE: 180]
+[NAME: Cipher]
+[TITLE: The Apex of Premature Optimization]
+[RANK: GRANDMASTER]
+
+[LORE1:
+Cipher is a breathtaking marvel of cybernetic engineering. Forged from frictionless dark alloy and powered by a flawless, hyper-threaded core, it commands the skies on wings of pure, high-frequency purple plasma. It leaves trails of glowing cyan data in its wake, calculating every trajectory with terrifying perfection.
+[END]
+[LORE2:
+In the grand RPG of your life, Cipher is the sleek, terrifying embodiment of "Premature Optimization." It doesn't attack you with bugs or crashes; it attacks your time by convincing you that your perfectly functional code needs to run ten times faster before you even have a prototype.
+[END]
+[LORE3:
+Its cyan circuitry pulses with micro-benchmarks. Before you have even built a single playable level of your mobile game, Cipher descends, demanding you write a custom memory allocator and a multi-threaded rendering pipeline for a simple 2D RPG.
+[END]
+[LORE4:
+In combat, Cipher uses its massive Crit Damage to obliterate your development schedule. You spend months shaving fractions of a millisecond off your load times, blinded by the beautiful, glowing purple wings of "best practices" and infinite scalability.
+[END]
+[LORE5:
+The tragedy of this Grandmaster beast is its beauty. It makes you feel like an absolute elite software engineer. You proudly show off your perfectly optimized, zero-allocation data structures on forums, completely ignoring the fact that your game itself still isn't fun to play.
+[END]
+[LORE6:
+Defeating Cipher requires the ultimate act of developer restraint. You must ignore the beautiful, glowing metrics. You must look at the profiler, accept that 60 frames per second is "good enough," and finally return to actually designing your gameplay loop.
+[END]
+[LORE7:
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:ATK_DMG | VAL:3 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:CRIT_RATE | VAL:1.5% | TITLE:The Apex of Premature Optimization]
+[HUNTED:333 | LORE:3 | STAT:ATK_DMG | VAL:6 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:CRIT_RATE | VAL:2.25% | TITLE:NULL]
+[HUNTED:6666 | LORE:5 | STAT:ATK_DMG | VAL:12 | TITLE:NULL]
+[HUNTED:33333 | LORE:6 | STAT:CRIT_RATE | VAL:3.75% | TITLE:NULL]
+[HUNTED:99999 | LORE:NULL | STAT:CRIT_DMG | VAL:7.5% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The 'Good Enough' Engineer]
+
+[FILENAME: D3]
+[RACE: DRAGON]
+[SIZE: 200]
+[NAME: Syntax]
+[TITLE: The Wyrm of Breaking Changes]
+[RANK: LEGEND]
+
+[LORE1:
+Syntax is an apex predator of the digital wasteland. Forged from blackened, superheated armor plating, its wings are formed not of flesh, but of bleeding-edge, violently unstable crimson energy. A swirling vortex of pure, red-hot logic burns eternally in its chest cavity.
+[END]
+[LORE2:
+In the grand RPG of your life, Syntax is the apocalyptic manifestation of a "Major Breaking Change." It descends from the sky without warning, right when your cross-platform app is finally compiling smoothly, carrying the terrifying news that your core framework just updated to a new major version.
+[END]
+[LORE3:
+The glowing red vortex in its chest represents the thousands of compiler errors and deprecated functions that instantly flood your terminal. Your perfectly balanced combat system and UI are suddenly obsolete, rendered completely incompatible by a single, catastrophic dependency bump.
+[END]
+[LORE4:
+In combat, Syntax uses its monstrous attack damage to completely devastate your momentum. You aren't designing new levels or drawing new pixel art anymore; you are desperately fighting just to get the game's start button to work again. It burns weeks of your life forcing you to rewrite code you already finished.
+[END]
+[LORE5:
+It tempts you with the burning, chaotic energy of the "Newest Features." It roars that the new engine update is faster and more optimized, blinding you to the fact that your release date just got pushed back by six months.
+[END]
+[LORE6:
+Defeating this Legend-tier wyrm requires the iron discipline of a seasoned developer. You must reject the bleeding-edge update, roll back to the stable branch, lock your package versions, and stubbornly refuse to migrate your project until the game is actually published.
+[END]
+[LORE7:
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:ATK_DMG | VAL:3.2 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:CRIT_RATE | VAL:1.6% | TITLE:The Wyrm of Breaking Changes]
+[HUNTED:333 | LORE:3 | STAT:ATK_DMG | VAL:6.4 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:CRIT_RATE | VAL:2.4% | TITLE:NULL]
+[HUNTED:6666 | LORE:5 | STAT:ATK_DMG | VAL:12.8 | TITLE:NULL]
+[HUNTED:33333 | LORE:6 | STAT:CRIT_RATE | VAL:4% | TITLE:NULL]
+[HUNTED:99999 | LORE:NULL | STAT:CRIT_DMG | VAL:8% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The Version Controller]
+
+[FILENAME: D4]
+[RACE: DRAGON]
+[SIZE: 230]
+[NAME: Aurelius]
+[TITLE: The Golden Engine]
+[RANK: MYTHIC]
+
+[LORE1:
+Aurelius is a divine mechanical dragon, a breathtaking masterpiece of theoretical design. Its scales are perfectly aligned brass and gold, and its wings are woven from ethereal, glowing geometric runes. At its core spins a flawless, perpetual clockwork heart that calculates eternity.
+[END]
+[LORE2:
+In the grand RPG of your life, Aurelius represents the intoxicating myth of "The Perfect Proprietary Engine." It doesn't attack you with bugs or crashes; it attacks your ego, convincing you that existing game engines are simply not "pure" enough for your grand, visionary project.
+[END]
+[LORE3:
+The glowing golden runes on its wings represent the years you spend writing low-level rendering pipelines, custom memory allocators, and bespoke physics systems for a game that currently consists of a single moving cube.
+[END]
+[LORE4:
+In combat, Aurelius uses its absurdly high Crit Damage to shatter your release windows. You aren't making a game anymore; you are writing a masterpiece of computer science. It feels incredible, but it is ultimately a golden cage that prevents you from shipping a product.
+[END]
+[LORE5:
+It absorbs your creative energy, whispering that once the engine is finally finished, you will be able to make any game in mere days. But the engine is never finished. There is always one more system to abstract, one more pipeline to optimize.
+[END]
+[LORE6:
+This Mythic beast thrives on "Engine Developer Syndrome." You proudly showcase your engine's lighting capabilities to hundreds of likes online, blinding yourself to the fact that you haven't designed a fun gameplay mechanic in five years.
+[END]
+[LORE7:
+Defeating Aurelius requires the ultimate sacrifice of your developer pride. You must shatter the golden clockwork core, accept the slight inefficiencies of commercial game engines, and realize the hardest truth of all: players play games, not game engines.
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:ATK_DMG | VAL:3.4 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:CRIT_RATE | VAL:1.7% | TITLE:The Golden Engine]
+[HUNTED:333 | LORE:3 | STAT:ATK_DMG | VAL:6.8 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:CRIT_RATE | VAL:2.55% | TITLE:NULL]
+[HUNTED:6666 | LORE:5 | STAT:ATK_DMG | VAL:13.6 | TITLE:NULL]
+[HUNTED:33333 | LORE:6 | STAT:CRIT_RATE | VAL:4.25% | TITLE:NULL]
+[HUNTED:99999 | LORE:7 | STAT:CRIT_DMG | VAL:8.5% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The Game Maker]
+
+
+[FILENAME: D5]
+[RACE: DRAGON]
+[SIZE: 300]
+[NAME: Genesis]
+[TITLE: The Wyrm of Infinite Generation]
+[RANK: TRANSCENDENT]
+
+[LORE1:
+Genesis is the absolute apex of digital creation, a cosmic entity clad in pristine, hyper-polished silver armor. Its wings are breathtaking canvases of living nebulae and digital galaxies, and a transcendent halo of pure, prismatic code floats above its head.
+[END]
+[LORE2:
+In the grand RPG of your life, Genesis represents the ultimate, seductive illusion: "Infinite Procedural Generation." It attacks when you decide that hand-crafting a perfectly balanced mobile game is too small a scope, whispering that you should write an algorithm to generate an endless universe instead.
+[END]
+[LORE3:
+The swirling galaxy in its chest represents a million mathematically unique, yet completely hollow, worlds. Genesis convinces you that if you just tweak your Perlin noise equations one more time, the randomly generated levels will magically become fun to play.
+[END]
+[LORE4:
+It paralyzes you with the promise of "endless replayability." You spend a year writing complex spawning algorithms, biome interpolators, and dynamic ecosystem simulations for a game that feels completely empty and devoid of actual soul.
+[END]
+[LORE5:
+Genesis uses its cosmic power to blind you to the player's experience. You proudly boast that your game has 18 quintillion mathematically distinct variations of the same three enemies, completely forgetting to give the player a meaningful reason to fight them.
+[END]
+[LORE6:
+This Transcendent dragon thrives on the fantasy that pure math can replace human creativity. It radiates the false truth that you don't need level design, art direction, or narrative pacing—you just need more variables in the random number generator.
+[END]
+[LORE7:
+Caught in its cosmic gravity well, you wander the procedural abyss for years. You continually adjust the seed values and generation rules, eternally searching for that one perfect, randomly-generated world that simply does not exist.
+[END]
+[LORE8:
+Slaying Genesis is the final ascension of a master developer. You must shatter the cosmic halo, sever the infinite generation scripts, and accept the terrifying, beautiful responsibility of hand-crafting a finite, intentional, and unforgettable experience.
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:ATK_DMG | VAL:3.6 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:CRIT_RATE | VAL:1.8% | TITLE:The Wyrm of Infinite Generation]
+[HUNTED:333 | LORE:3 | STAT:ATK_DMG | VAL:7.2 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:CRIT_RATE | VAL:2.7% | TITLE:NULL]
+[HUNTED:6666 | LORE:5 | STAT:ATK_DMG | VAL:14.4 | TITLE:NULL]
+[HUNTED:33333 | LORE:6 | STAT:CRIT_RATE | VAL:4.5% | TITLE:NULL]
+[HUNTED:99999 | LORE:7 | STAT:CRIT_DMG | VAL:9% | TITLE:NULL]
+[HUNTED:999999 | LORE:8 | STAT:NULL | VAL:0 | TITLE:The Hand-Crafter]
+

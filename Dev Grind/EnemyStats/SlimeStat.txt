@@ -1,0 +1,243 @@
+[MAINSTAT]
+[APPEARCHANCE: 100%]
+[HP: 100%]
+[DMG: 70%]
+[CRIT: 60%]
+[ASPD: 70%]
+[BLOCK: 40%]
+[CRITDMG: 100%]
+[STUN: 100%]
+[BARRAGE: 100%]
+[END]
+
+[FILENAME: S1]
+[RACE: SLIME]
+[SIZE: 80]
+[NAME: Glurp]
+[TITLE: The Puddle of Brain Fog]
+[RANK: NOVICE]
+
+[LORE1:
+Glurp is a low-level gelatinous blob that mostly just sits there. It lacks any skeletal structure, internal organs, or discernible motivation. Adventurers rarely die to it; they usually just step in it by accident, ruining their favorite leather boots and slowing their movement speed to an agonizing crawl.
+[END]
+[LORE2:
+In the grand RPG of your life, Glurp is the literal embodiment of "Brain Fog." It doesn't actively attack your dreams; it just passively exists in your mental space, making everything you try to do feel incredibly slow, sticky, and exhausting.
+[END]
+[LORE3:
+With its pitiful Attack Speed but surprisingly high Stun and HP stats, this slime's main combat strategy is simply absorbing your energy. Your sharpest logical thoughts just bounce off its gelatinous body, leaving you staring blankly at your monitor while it happily jiggles in place.
+[END]
+[LORE4:
+As you study its gooey patterns, you realize Glurp thrives on dehydration, terrible sleep schedules, and staring at the exact same line of code for twenty minutes without typing anything. It makes you feel like you're trying to walk waist-deep through molasses. Drink a glass of water and snap out of it.
+[END]
+[LORE5:
+[END]
+[LORE6:
+[END]
+[LORE7:
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:MAX_HP | VAL:3 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:ATK_DMG | VAL:1 | TITLE:The Puddle of Brain Fog]
+[HUNTED:333 | LORE:3 | STAT:MAX_HP | VAL:15 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:MAX_HP | VAL:35 | TITLE:NULL]
+[HUNTED:6666 | LORE:NULL | STAT:MAX_HP | VAL:70 | TITLE:NULL]
+[HUNTED:33333 | LORE:NULL | STAT:ATK_DMG | VAL:4 | TITLE:NULL]
+[HUNTED:99999 | LORE:NULL | STAT:CRIT_DMG | VAL:2.5% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The Slime Sweeper]
+
+[FILENAME: S2]
+[RACE: SLIME]
+[SIZE: 82.5]
+[NAME: Cache]
+[TITLE: The Gelatinous Clutter]
+[RANK: APPRENTICE]
+
+[LORE1:
+Cache is a translucent, highly viscous green blob that has steadily absorbed bits of ancient technology. Frayed wires, cracked circuit boards, and rusted microchips float suspended within its core. It slowly oozes across dungeon floors, assimilating any discarded electronics it touches into its ever-growing mass.
+[END]
+[LORE2:
+In the grand RPG of your life, Cache is the physical manifestation of "Digital Clutter." It doesn't actively strike you down; instead, it bogs down your system memory by dragging around hundreds of useless, half-loaded thoughts, forgotten bookmarks, and unorganized files.
+[END]
+[LORE3:
+Relying heavily on its massive Stun capabilities, its entire combat strategy involves throwing memory leaks at you. Your sharpest, most productive ideas get trapped in its sticky exterior, causing your cognitive processing speed to slow to an absolute crawl while it happily jiggles in place.
+[END]
+[LORE4:
+As you study its sluggish movements, you realize this slime feeds entirely on the 47 browser tabs you have open "just in case you need them later." It is the messy desktop filled with "Untitled-Final-V2" folders. Defeating it requires you to close the tabs, organize your workspace, and free up your mental RAM.
+[END]
+[LORE5:
+[END]
+[LORE6:
+[END]
+[LORE7:
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:MAX_HP | VAL:3.3 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:ATK_DMG | VAL:1.1 | TITLE:The Gelatinous Clutter]
+[HUNTED:333 | LORE:3 | STAT:MAX_HP | VAL:16.5 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:MAX_HP | VAL:38.5 | TITLE:NULL]
+[HUNTED:6666 | LORE:NULL | STAT:MAX_HP | VAL:77 | TITLE:NULL]
+[HUNTED:33333 | LORE:NULL | STAT:ATK_DMG | VAL:4.4 | TITLE:NULL]
+[HUNTED:99999 | LORE:NULL | STAT:CRIT_DMG | VAL:2.75% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The Tab Closer]
+
+[FILENAME: S3]
+[RACE: SLIME]
+[SIZE: 85]
+[NAME: Flux]
+[TITLE: The Ooze of Technical Debt]
+[RANK: EXPERT]
+
+[LORE1:
+Flux is a glowing, acidic yellow slime that has completely digested a server rack's worth of ancient circuit boards. It no longer just absorbs technology; it fuses with it, creating a horrifying, tangled mess of rusted wires, deprecated microchips, and leaking battery acid.
+[END]
+[LORE2:
+In the grand RPG of your life, Flux is the paralyzing dread of "Technical Debt." It doesn't actively attack you; it just sits right in the middle of your project's architecture, radiating a toxic aura that makes adding even the simplest new feature feel impossible.
+[END]
+[LORE3:
+Its yellow, gelatinous body represents all those quick, messy "temporary fixes" you coded three months ago and swore you'd rewrite later. Now, those workarounds have solidified into a massive, unreadable pile of spaghetti code that somehow holds your entire app together.
+[END]
+[LORE4:
+In combat, Flux relies on its impenetrable Stun capabilities. When you try to strike it with a new idea or mechanic, the attack gets hopelessly lost in the tangled mess of obsolete dependencies. You end up spending four hours just trying to untangle a single variable.
+[END]
+[LORE5:
+It jiggles menacingly, whispering that it's too late to refactor and urging you to just slap another quick band-aid on top of the pile. Defeating this monstrosity requires you to do the one thing every developer fears: slowly and painfully rewriting your core legacy code.
+[END]
+[LORE6:
+[END]
+[LORE7:
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:MAX_HP | VAL:3.9 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:ATK_DMG | VAL:1.3 | TITLE:The Ooze of Technical Debt]
+[HUNTED:333 | LORE:3 | STAT:MAX_HP | VAL:19.5 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:MAX_HP | VAL:45.5 | TITLE:NULL]
+[HUNTED:6666 | LORE:5 | STAT:MAX_HP | VAL:91 | TITLE:NULL]
+[HUNTED:33333 | LORE:NULL | STAT:ATK_DMG | VAL:5.2 | TITLE:NULL]
+[HUNTED:99999 | LORE:NULL | STAT:CRIT_DMG | VAL:3.25% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The Refactor Paladin]
+
+[FILENAME: S4]
+[RACE: SLIME]
+[SIZE: 87.5]
+[NAME: Nexus]
+[TITLE: The Mass of Dependency Hell]
+[RANK: MASTER]
+
+[LORE1:
+Nexus is a deep, pulsating violet slime that has transcended mere physical clutter to become a localized tech black hole. Inside its cosmic, gelatinous body, thousands of interconnected microchips, forgotten libraries, and infinite loops orbit a dense, glowing core that constantly demands more memory.
+[END]
+[LORE2:
+In the grand RPG of your life, Nexus is the terrifying event horizon of "Dependency Hell." It attacks when you try to add one simple feature to your app, forcing you to download fifty gigabytes of third-party packages, plugins, and libraries just to make a single button change color.
+[END]
+[LORE3:
+Its deep purple mass represents the infinite void of maintaining other people's code. When you strike it, you don't actually damage it; you just accidentally update a core package that immediately deprecates twelve other essential functions, shattering your entire project into a thousand error codes.
+[END]
+[LORE4:
+Its combat strategy relies on its massive Stun capabilities, freezing your progress entirely while it "resolves dependencies" for hours. You sit paralyzed, watching progress bars fill and fail, realizing you've spent an entire weekend configuring node modules instead of building your game.
+[END]
+[LORE5:
+It jiggles with cosmic mockery, whispering that you need just one more framework to make your code scalable. Defeating this Master-level ooze requires the ultimate developer discipline: severing the bloated external libraries, writing your own vanilla solutions, and escaping the gravity well of over-complication.
+[END]
+[LORE6:
+[END]
+[LORE7:
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:MAX_HP | VAL:4.2 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:ATK_DMG | VAL:1.4 | TITLE:The Mass of Dependency Hell]
+[HUNTED:333 | LORE:3 | STAT:MAX_HP | VAL:21 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:MAX_HP | VAL:49 | TITLE:NULL]
+[HUNTED:6666 | LORE:5 | STAT:MAX_HP | VAL:98 | TITLE:NULL]
+[HUNTED:33333 | LORE:NULL | STAT:ATK_DMG | VAL:5.6 | TITLE:NULL]
+[HUNTED:99999 | LORE:NULL | STAT:CRIT_DMG | VAL:3.5% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The Vanilla Coder]
+
+[FILENAME: S5]
+[RACE: SLIME]
+[SIZE: 92.5]
+[NAME: Fatalis]
+[TITLE: The Ooze of Fatal Exceptions]
+[RANK: LEGEND]
+
+[LORE1:
+Fatalis is no longer just a puddle; it is a sentient, bleeding-edge system failure. Pulsing with furious crimson energy, it has formed massive, terrifying appendages out of assimilated robotic claws and hyper-conductive wires to actively hunt its prey.
+[END]
+[LORE2:
+In the grand RPG of your life, Fatalis is the nightmare scenario of a "Production Crash." It doesn't slowly drain your focus or distract you with new features; it strikes exactly when you are finally about to deploy, turning your triumphant release day into a blinding red screen of pure panic.
+[END]
+[LORE3:
+Its glowing red eyes pierce through your meager attempts at debugging. The assimilated mechanical claws are designed to rip apart your database tables and corrupt your save files simultaneously. A single strike from Fatalis can wipe out weeks of unsaved progress.
+[END]
+[LORE4:
+In combat, this catastrophic ooze relies on its absolute maximum Stun capabilities. It inflicts a unique status effect known as "Server Panic," completely freezing your ability to act as you watch your error logs flood with thousands of red warning messages.
+[END]
+[LORE5:
+It actively mocks you with unhandled exceptions and null pointers. You try to revert to a previous commit, but Fatalis has already corrupted the backup branches. It feeds entirely on the cold sweat of a developer desperately Googling undocumented error codes at 3:00 AM.
+[END]
+[LORE6:
+Defeating this Legend-tier nightmare is not about coding faster; it is about crisis management. It requires the absolute, legendary iron will to calmly read the logs, isolate the breaking change, and deploy the hotfix while the entire system burns around you.
+[END]
+[LORE7:
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:MAX_HP | VAL:4.8 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:ATK_DMG | VAL:1.6 | TITLE:The Ooze of Fatal Exceptions]
+[HUNTED:333 | LORE:3 | STAT:MAX_HP | VAL:24 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:MAX_HP | VAL:56 | TITLE:NULL]
+[HUNTED:6666 | LORE:5 | STAT:MAX_HP | VAL:112 | TITLE:NULL]
+[HUNTED:33333 | LORE:6 | STAT:ATK_DMG | VAL:6.4 | TITLE:NULL]
+[HUNTED:99999 | LORE:NULL | STAT:CRIT_DMG | VAL:4% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The Hotfix Hero]
+
+
+[FILENAME: S6]
+[RACE: SLIME]
+[SIZE: 97.5]
+[NAME: Omnis]
+[TITLE: The Divine Rewrite]
+[RANK: TRANSCENDENT]
+
+[LORE1:
+Omnis is not a mere slime; it is a biblically accurate manifestation of pure, radiant logic. Hovering with a golden halo and ethereal wings of light, its translucent body houses a flawlessly synchronized array of holy circuitry and golden mechanical limbs that never degrade or rust.
+[END]
+[LORE2:
+In the grand RPG of your life, Omnis represents the ultimate deception: "The Silver Bullet." It descends from the heavens right when your project gets difficult, bathing you in the blinding light of a brand-new, revolutionary framework or a complete structural paradigm shift.
+[END]
+[LORE3:
+It doesn't attack; it simply offers salvation. It whispers that your current codebase is a messy, irredeemable disaster, but if you just scrap everything and start over using this new, flawless architecture, the game will practically build itself.
+[END]
+[LORE4:
+Its golden mechanical hands reach out to automate your pipelines. Suddenly, you aren't making a game anymore; you are building a custom, transcendent game engine designed to perfectly generate the RPG you were originally supposed to be coding.
+[END]
+[LORE5:
+The Stun effect is absolute. Omnis paralyzes you with infinite scalability. You spend six months writing elegant, modular, perfectly documented core systems for mechanics and features you haven't even prototyped yet. You feel like an absolute coding god.
+[END]
+[LORE6:
+As the holy light slowly fades, the devastating truth emerges: the radiant core is actually empty. The perfect tools cannot create art. This flawless, angelic architecture is just the ultimate, most sophisticated form of procrastination ever conceived.
+[END]
+[LORE7:
+You have spent two years worshiping at the altar of "perfect code," and all you have to show for it is an insanely optimized, bug-free Main Menu that runs at 4,000 frames per second for a game that does not exist.
+[END]
+[LORE8:
+Defeating a Transcendent requires an ego death. You must strike down the false god of perfection, accept the messy, chaotic reality of mortal development, and finally write the ugly, brute-force code required to just finish the damn game.
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:MAX_HP | VAL:5.4 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:ATK_DMG | VAL:1.8 | TITLE:The Divine Rewrite]
+[HUNTED:333 | LORE:3 | STAT:MAX_HP | VAL:27 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:MAX_HP | VAL:63 | TITLE:NULL]
+[HUNTED:6666 | LORE:5 | STAT:MAX_HP | VAL:126 | TITLE:NULL]
+[HUNTED:33333 | LORE:6 | STAT:ATK_DMG | VAL:7.2 | TITLE:NULL]
+[HUNTED:99999 | LORE:7 | STAT:CRIT_DMG | VAL:4.5% | TITLE:NULL]
+[HUNTED:999999 | LORE:8 | STAT:NULL | VAL:0 | TITLE:The Mortal Creator]
+

@@ -1,0 +1,204 @@
+[MAINSTAT]
+[APPEARCHANCE: 100%]
+[HP: 180%]
+[DMG: 100%]
+[CRIT: 100%]
+[ASPD: 50%]
+[BLOCK: 100%]
+[CRITDMG: 100%]
+[STUN: 225%]
+[BARRAGE: 25%]
+[END]
+
+[FILENAME: O1]
+[RACE: ORC]
+[SIZE: 115]
+[NAME: Lug]
+[TITLE: The Brute of Inefficiency]
+[RANK: APPRENTICE]
+
+[LORE1:
+Lug is a towering wall of green muscle, rusty metal, and terrible ideas. Armed with a massive stone axe that he inexplicably glued some useless gears to, he genuinely believes he has mastered "technology." He lumbers around the dungeon, solving every delicate magical puzzle by simply smashing it to pieces.
+[END]
+[LORE2:
+In the grand RPG of your life, Lug is the physical manifestation of "Brute-Forcing a Solution." He attacks when you encounter a complex bug or a delicate design problem, convincing you that if you just hammer away at the keyboard harder and faster, it will magically fix itself.
+[END]
+[LORE3:
+With his staggeringly high 225% Stun stat, Lug's combat strategy is to hit you with a massive wave of mental exhaustion. He doesn't attack quickly, but every time he swings that heavy, inefficient axe, he completely paralyzes your workflow and drains your energy for the rest of the day.
+[END]
+[LORE4:
+He is the dark urge to manually write out 500 lines of repetitive if/else statements because you are too stubborn to spend ten minutes learning how to write a proper loop. Defeating this apprentice-level roadblock requires you to put the stone axe down, step back, and actually read the documentation.
+[END]
+[LORE5:
+[END]
+[LORE6:
+[END]
+[LORE7:
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:MAX_HP | VAL:7 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:STUN | VAL:0.05% | TITLE:The Brute of Inefficiency]
+[HUNTED:333 | LORE:3 | STAT:MAX_HP | VAL:50 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:STUN | VAL:0.10% | TITLE:NULL]
+[HUNTED:6666 | LORE:NULL | STAT:MAX_HP | VAL:190 | TITLE:NULL]
+[HUNTED:33333 | LORE:NULL | STAT:STUN | VAL:0.25% | TITLE:NULL]
+[HUNTED:99999 | LORE:NULL | STAT:CRIT_DMG | VAL:2.5% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The Automation Adept]
+
+[FILENAME: O2]
+[RACE: ORC]
+[SIZE: 120]
+[NAME: Scrap]
+[TITLE: The Bloatware Behemoth]
+[RANK: PROFESSIONAL]
+
+[LORE1:
+Scrap has upgraded his arsenal in the worst way possible. No longer satisfied with just a crude stone axe, he has bolted hundreds of pounds of scavenged, rusty server racks and exhaust pipes directly onto his flesh. He lumbers forward with deafening, metallic thuds, venting steam from his back.
+[END]
+[LORE2:
+In the grand RPG of your life, Scrap is the crushing embodiment of "Software Bloat." He attacks when you decide that instead of writing a simple, lightweight function, you should import a massive, 5GB legacy framework that you barely understand just to use one minor feature.
+[END]
+[LORE3:
+His exhaust pipes constantly vent hot air, perfectly representing your CPU overheating from running all this unoptimized, unnecessary code. He hits you with his massive Stun stat, paralyzing your load times and making your simple mobile app take 45 seconds just to boot up.
+[END]
+[LORE4:
+When he swings his gear-toothed axe, he doesn't just break the code; he bogs down the entire operating system. You find yourself spending hours staring at a loading bar, waiting for the compiler to process the massive mountain of junk dependencies you bolted onto the project.
+[END]
+[LORE5:
+Scrap genuinely believes that heavier armor makes him a better warrior, just like you believed those ten UI plugins made your app better. Defeating this Professional-tier roadblock requires you to strip away the rust. Uninstall the bloatware, remove the unnecessary packages, and return to clean code.
+[END]
+[LORE6:
+[END]
+[LORE7:
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:MAX_HP | VAL:7.6 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:STUN | VAL:0.055% | TITLE:The Bloatware Behemoth]
+[HUNTED:333 | LORE:3 | STAT:MAX_HP | VAL:54.5 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:STUN | VAL:0.11% | TITLE:NULL]
+[HUNTED:6666 | LORE:5 | STAT:MAX_HP | VAL:207 | TITLE:NULL]
+[HUNTED:33333 | LORE:NULL | STAT:STUN | VAL:0.27% | TITLE:NULL]
+[HUNTED:99999 | LORE:NULL | STAT:CRIT_DMG | VAL:2.7% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The Uninstaller]
+
+[FILENAME: O3]
+[RACE: ORC]
+[SIZE: 125]
+[NAME: Krag]
+[TITLE: The Legacy Monolith]
+[RANK: MASTER]
+
+[LORE1:
+Krag has abandoned natural flesh for cold, sparking steel. His skin has turned a frostbitten blue from the sheer cooling requirements of his bolted-on hardware. Wielding a supercharged, electrified gear-axe and a crushing mechanical claw, he is a walking, sputtering fortress of scrap.
+[END]
+[LORE2:
+In the grand RPG of your life, Krag is the terrifying embodiment of "The Legacy Monolith." He is that one massive, interconnected codebase you built five years ago that now runs your entire backend, held together entirely by unhandled exceptions and raw electrical tape.
+[END]
+[LORE3:
+His multiple optical sensors flash erratically as he processes incredibly inefficient logic. He doesn't attack with agility; he simply walks forward, crushing any attempt to introduce modern, lightweight frameworks with the sheer, unbearable weight of his monolithic architecture.
+[END]
+[LORE4:
+In combat, Krag's Stun capabilities are legendary. He hits you with a "Merge Conflict" so massive that your entire IDE freezes for twenty minutes. His mechanical claw represents the rigid, inflexible dependencies that refuse to let you update any part of the system independently.
+[END]
+[LORE5:
+He constantly vents exhaust from his shoulders, a warning that the server is always one error away from a complete meltdown. Defeating this Master-tier brute requires the excruciating process of breaking the monolith apart. You must sever the mechanical claw, decouple the systems, and transition to microservices before he crushes your motivation completely.
+[END]
+[LORE6:
+[END]
+[LORE7:
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:MAX_HP | VAL:8.9 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:STUN | VAL:0.06% | TITLE:The Legacy Monolith]
+[HUNTED:333 | LORE:3 | STAT:MAX_HP | VAL:63.6 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:STUN | VAL:0.13% | TITLE:NULL]
+[HUNTED:6666 | LORE:5 | STAT:MAX_HP | VAL:241.8 | TITLE:NULL]
+[HUNTED:33333 | LORE:NULL | STAT:STUN | VAL:0.32% | TITLE:NULL]
+[HUNTED:99999 | LORE:NULL | STAT:CRIT_DMG | VAL:3.2% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The Monolith Breaker]
+
+[FILENAME: O4]
+[RACE: ORC]
+[SIZE: 130]
+[NAME: Throk]
+[TITLE: The Warlord of Crunch Time]
+[RANK: LEGEND]
+
+[LORE1:
+Throk has ascended to a terrifying state of pure, adrenaline-fueled rage. His skin has turned a blistering crimson, and his white hair flows wildly above spiked, heavy dark-metal armor. He no longer carries a single, clumsy weapon; he dual-wields massive cybernetic axes that pulse with blinding magenta circuitry.
+[END]
+[LORE2:
+In the grand RPG of your life, Throk is the brutal, unforgiving embodiment of "Crunch Culture." He attacks when a deadline is looming, whispering the toxic lie that sleep is a weakness and that you can totally rewrite the entire combat system 48 hours before launch if you just drink enough caffeine.
+[END]
+[LORE3:
+His glowing axes represent the manic, frantic energy of an all-nighter. He hits you with an overwhelming Stun effect by completely destroying your work-life balance. For every hour you stay awake past midnight, his axes swing faster, generating lines of code that you will inevitably have to delete tomorrow.
+[END]
+[LORE4:
+In combat, Throk induces "Tunnel Vision." He makes you feel like an unstoppable coding berserker at 4:00 AM, absolutely convinced that the spaghetti code you are writing is pure genius. He drains your HP by trading your physical health for negligible, buggy progress.
+[END]
+[LORE5:
+His terrifying presence in your workspace means the project has taken over your life. He forces you to brute-force solutions while running on exactly zero hours of rest and pure panic, ensuring your game ships with a thousand undocumented bugs.
+[END]
+[LORE6:
+Defeating this Legend-tier Warlord requires setting absolute boundaries. You must block his dual-axes of burnout, step away from the glowing monitors, and accept that a delayed, functional project is always better than a rushed disaster built by a broken developer. Go to sleep.
+[END]
+[LORE7:
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:MAX_HP | VAL:11.2 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:STUN | VAL:0.08% | TITLE:The Warlord of Crunch Time]
+[HUNTED:333 | LORE:3 | STAT:MAX_HP | VAL:80 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:STUN | VAL:0.16% | TITLE:NULL]
+[HUNTED:6666 | LORE:5 | STAT:MAX_HP | VAL:304 | TITLE:NULL]
+[HUNTED:33333 | LORE:6 | STAT:STUN | VAL:0.4% | TITLE:NULL]
+[HUNTED:99999 | LORE:NULL | STAT:CRIT_DMG | VAL:4% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The Rested Developer]
+
+[FILENAME: O5]
+[RACE: ORC]
+[SIZE: 135]
+[NAME: Gromm]
+[TITLE: The Sovereign of Reinvention]
+[RANK: MYTHIC]
+
+[LORE1:
+Gromm has transcended the chaotic rust and scrap of his lesser kin. Clad in flawlessly forged dark metal armor lined with glowing, runic gold, he is a sovereign of pure, unyielding stubbornness. He dual-wields devastating axes inscribed with complex, bespoke algorithms that he insists are superior to the standard.
+[END]
+[LORE2:
+In the grand RPG of your life, Gromm is the majestic, terrifying embodiment of the "Not Invented Here" syndrome. He attacks when you refuse to use perfectly good, built-in engine tools, convincing you that you must write your own custom physics engine from scratch just to make a character jump.
+[END]
+[LORE3:
+The glowing golden runes on his axes represent thousands of lines of redundant, custom code. He deals massive Stun damage by forcing you to spend three months reverse-engineering basic collision detection, completely halting any actual gameplay development.
+[END]
+[LORE4:
+In combat, he mocks your reliance on standard libraries and asset stores. He demands that every single system, from UI scaling to audio mixing, be handcrafted. His immense MAX HP comes from the sheer, bloated density of his bespoke systems, making him almost impossible to refactor.
+[END]
+[LORE5:
+He is the dark urge to build a custom save-state serialization system because the default one "isn't optimized enough" for a game that currently only has two variables. Gromm makes you feel like an elite programming god while ensuring your game remains a beautiful, unplayable tech demo.
+[END]
+[LORE6:
+Defeating this Mythic Sovereign requires swallowing your developer pride. You must shatter his golden axes of reinvention, accept that the built-in rigidbodies work perfectly fine, and realize that players don't care how the code was written—they only care if the game is fun.
+[END]
+[LORE7:
+Only the wisest developers can slay Gromm. You learn the ultimate lesson of the Mythic tier: true mastery is not writing every single system yourself from scratch, but knowing exactly when to use existing tools so you can actually finish the damn project.
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:MAX_HP | VAL:11.9 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:STUN | VAL:0.085% | TITLE:The Sovereign of Reinvention]
+[HUNTED:333 | LORE:3 | STAT:MAX_HP | VAL:85 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:STUN | VAL:0.17% | TITLE:NULL]
+[HUNTED:6666 | LORE:5 | STAT:MAX_HP | VAL:323 | TITLE:NULL]
+[HUNTED:33333 | LORE:6 | STAT:STUN | VAL:0.425% | TITLE:NULL]
+[HUNTED:99999 | LORE:7 | STAT:CRIT_DMG | VAL:4.25% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The Plugin Pragmatist]
+

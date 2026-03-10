@@ -1,0 +1,240 @@
+[MAINSTAT]
+[APPEARCHANCE: 100%]
+[HP: 80%]
+[DMG: 50%]
+[CRIT: 120%]
+[ASPD: 150%]
+[BLOCK: 20%]
+[CRITDMG: 75%]
+[STUN: 25%]
+[BARRAGE: 150%]
+[END]
+
+[FILENAME: G1]
+[RACE: GOBLIN]
+[SIZE: 80]
+[NAME: Brak]
+[TITLE: The Ankle-Biter of the Outer Woods]
+[RANK: NOVICE]
+
+[LORE1:
+Brak is a low-level woodland terror who genuinely believes he is a catastrophic endgame threat. Having recently escaped captivity—mostly because his iron wrist shackles completely rusted through—he now prowls the starter zones wearing a smashed relic as a belt.
+[END]
+[LORE2:
+In the grand RPG of your life, Brak is the literal embodiment of "micro-procrastination." He doesn't have the devastating power to ruin your grand ambitions in one blow, but his relentless flurry of tiny, weak distractions is designed to keep you trapped in the Novice zone forever.
+[END]
+[LORE3:
+His combat strategy relies on terrifying Attack Speed and Barrage stats. In reality, this translates to the sudden urge to check a notification you already cleared, spend five minutes adjusting your chair, or fall down a Wikipedia rabbit hole about how cheese is made.
+[END]
+[LORE4:
+As you study his patterns, you realize Brak thrives on "productive procrastination." He is the tiny voice suggesting you should probably reorganize your project files right now instead of actually coding your game. He makes you feel busy while ensuring you achieve absolutely nothing.
+[END]
+[LORE5:
+[END]
+[LORE6:
+[END]
+[LORE7:
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:MAX_HP | VAL:3 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:ATK_DMG | VAL:1 | TITLE:The Ankle-Biter of the Outer Woods]
+[HUNTED:333 | LORE:3 | STAT:MAX_HP | VAL:15 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:ASPD | VAL:1% | TITLE:NULL]
+[HUNTED:6666 | LORE:NULL | STAT:MAX_HP | VAL:60 | TITLE:NULL]
+[HUNTED:33333 | LORE:NULL | STAT:CRIT_RATE | VAL:1% | TITLE:NULL]
+[HUNTED:99999 | LORE:NULL | STAT:CRIT_DMG | VAL:2.5% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The Over-Leveled Bully]
+
+[FILENAME: G2]
+[RACE: GOBLIN]
+[SIZE: 82.5]
+[NAME: Tink]
+[TITLE: The Overclocked Saboteur]
+[RANK: PROFESSIONAL]
+
+[LORE1:
+Tink is what happens when a low-level woodland menace stumbles into an abandoned artificer’s workshop and decides to eat the glowing rocks. Having wired a leaking techno-magical battery directly into his scavenged armor, Tink’s nervous system is now perpetually overclocked.
+[END]
+[LORE2:
+The glowing conduits on his chest piece pulse with raw, unfiltered energy, turning him from a minor nuisance into a highly mobile, electrified threat. In combat, Tink doesn't just attack; he ricochets off the dungeon walls like a caffeinated pinball, delivering high-frequency kinetic strikes.
+[END]
+[LORE3:
+His backpack constantly hisses with unstable pressure, leaving seasoned adventurers dazed, confused, and smelling slightly of ozone. While he is undeniably dangerous, there's always a 5% chance he might just spontaneously short-circuit himself mid-leap.
+[END]
+[LORE4:
+In the grand RPG of your life, Tink is the brutal embodiment of "Feature Creep" and "Shiny Object Syndrome." He doesn't drain your energy by making you lazy; he drains it by making you work frantically on the completely wrong things.
+[END]
+[LORE5:
+He hits you with a barrage of sudden urges, like abandoning your perfectly fine mobile app to suddenly go learn Unreal Engine from scratch. He makes you feel incredibly productive while ensuring your actual project never sees a release date. Defeating him requires ruthless prioritization.
+[END]
+[LORE6:
+[END]
+[LORE7:
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:MAX_HP | VAL:3.6 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:ATK_DMG | VAL:1.2 | TITLE:The Overclocked Saboteur]
+[HUNTED:333 | LORE:3 | STAT:MAX_HP | VAL:18 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:ASPD | VAL:1.2% | TITLE:NULL]
+[HUNTED:6666 | LORE:5 | STAT:MAX_HP | VAL:72 | TITLE:NULL]
+[HUNTED:33333 | LORE:NULL | STAT:CRIT_RATE | VAL:1.2% | TITLE:NULL]
+[HUNTED:99999 | LORE:NULL | STAT:CRIT_DMG | VAL:3% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The Scope Creep Survivor]
+
+[FILENAME: G3]
+[RACE: GOBLIN]
+[SIZE: 85]
+[NAME: Slink]
+[TITLE: The Tutorial Scavenger]
+[RANK: EXPERT]
+
+[LORE1:
+Slink is a cunning rogue who lurks in the shadows of abandoned merchant caravans. Wearing a tattered cloak to conceal his stolen goods, he has strapped various broken gadgets, rusty cogs, and cracked screens to his forearms, fully believing they make him a master of the arcane arts.
+[END]
+[LORE2:
+His glowing yellow eyes pierce the darkness as he calculates the value of your gear. Slink doesn't fight fair; his pockets are overflowing with miscellaneous junk, and he prefers throwing blinding smoke bombs made of crushed glass and pocket lint before retreating into the shadows.
+[END]
+[LORE3:
+Despite his vast collection of stolen schematics and advanced magical trinkets strapped to his wrists, Slink doesn't actually know how to use any of them. His entire combat strategy relies purely on the intimidation factor of looking excessively prepared.
+[END]
+[LORE4:
+In the grand RPG of your life, Slink is the absolute embodiment of "Tutorial Hell" and "Asset Hoarding." He strikes when you are feeling highly motivated but slightly directionless, convincing you that you need to gather more materials before you can possibly begin your quest.
+[END]
+[LORE5:
+He whispers from the shadows that you aren't ready yet. "Just watch one more 4-hour game dev tutorial," he sneers, convincing you to download 50 gigabytes of free 3D models you will never use. Defeating him requires you to close the browser, ignore the asset store sales, and actually build something with the knowledge you already have.
+[END]
+[LORE6:
+[END]
+[LORE7:
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:MAX_HP | VAL:3.9 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:ATK_DMG | VAL:1.3 | TITLE:The Tutorial Scavenger]
+[HUNTED:333 | LORE:3 | STAT:MAX_HP | VAL:19.5 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:ASPD | VAL:1.3% | TITLE:NULL]
+[HUNTED:6666 | LORE:5 | STAT:MAX_HP | VAL:78 | TITLE:NULL]
+[HUNTED:33333 | LORE:NULL | STAT:CRIT_RATE | VAL:1.3% | TITLE:NULL]
+[HUNTED:99999 | LORE:NULL | STAT:CRIT_DMG | VAL:3.25% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The Hoarder of Useless Assets]
+
+[FILENAME: G4]
+[RACE: GOBLIN]
+[SIZE: 87.5]
+[NAME: Cypher]
+[TITLE: The Architect of Over-Engineering]
+[RANK: MASTER]
+
+[LORE1:
+Cypher has evolved beyond scavenging junk. Draped in a weathered rogue's cloak and strapped with reinforced leather, he has seamlessly integrated glowing blue techno-magical circuitry directly into his armor. He is a Master of complex mechanisms and views simple combat as beneath him.
+[END]
+[LORE2:
+He refuses to use standard goblin tactics. Instead, Cypher constructs elaborate, seventeen-step Rube Goldberg traps in the forest. He channels raw blue mana into his bracers to calculate the exact, mathematically perfect trajectory for his attacks based on wind resistance and planetary alignment.
+[END]
+[LORE3:
+The flaw in his genius, however, is that his calculations take so long that seasoned adventurers usually just walk right past him while he is muttering equations. When his overly complex traps finally do trigger, they usually just harmlessly shower the area in blue sparks.
+[END]
+[LORE4:
+In the grand RPG of your life, Cypher is the brutal manifestation of "Premature Optimization" and "Over-Engineering." He attacks when you are trying to build something simple, whispering that your foundational code isn't scalable enough for a million users you don't even have yet.
+[END]
+[LORE5:
+He hits you with the paralyzing urge to build a massive, custom physics engine or a complex state-management system for a game that barely has a working start button. He makes you feel like an elite developer while ensuring you never actually finish the game loop. Defeating him requires embracing the Minimum Viable Product.
+[END]
+[LORE6:
+[END]
+[LORE7:
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:MAX_HP | VAL:4.2 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:ATK_DMG | VAL:1.4 | TITLE:The Architect of Over-Engineering]
+[HUNTED:333 | LORE:3 | STAT:MAX_HP | VAL:21 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:ASPD | VAL:1.4% | TITLE:NULL]
+[HUNTED:6666 | LORE:5 | STAT:MAX_HP | VAL:84 | TITLE:NULL]
+[HUNTED:33333 | LORE:NULL | STAT:CRIT_RATE | VAL:1.4% | TITLE:NULL]
+[HUNTED:99999 | LORE:NULL | STAT:CRIT_DMG | VAL:3.5% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The MVP Champion]
+
+[FILENAME: G5]
+[RACE: GOBLIN]
+[SIZE: 90]
+[NAME: Null]
+[TITLE: The Obsidian Perfectionist]
+[RANK: GRANDMASTER]
+
+[LORE1:
+Null is a terrifying anomaly among his kind. Stripped of the usual chaotic goblin energy, his skin has hardened into dark ash, and his reinforced armor pulses with a cold, absolute blue light. He doesn't scavenge for junk; he is an elite assassin of the shadows.
+[END]
+[LORE2:
+He operates in complete, unsettling silence. Null doesn't ambush adventurers to steal their loot, but because their armor has a slight, asymmetrical scratch that deeply offends him. He will spend entire nights polishing his dark daggers until the edge is molecularly flawless.
+[END]
+[LORE3:
+In combat, Null refuses to strike unless his angle, timing, and footwork are absolutely perfect. If he misses a parry by even a fraction of a millimeter, he will immediately retreat into the shadows, deeply disgusted with himself, and completely restart his attack pattern from the beginning.
+[END]
+[LORE4:
+In the grand RPG of your life, Null is the suffocating shadow of "Toxic Perfectionism." He doesn't distract you with shiny new engines or tutorials; he makes you look at your fully functioning mobile app and whispers a single, devastating lie: "It's not good enough yet."
+[END]
+[LORE5:
+He is the dark urge to completely delete a perfectly working mechanic just because the underlying code isn't elegant. He forces you to spend three weeks polishing a minor UI animation that takes 0.2 seconds to play, paralyzing your actual progress in the pursuit of an impossible ideal.
+[END]
+[LORE6:
+Null convinces you that if your game isn't a flawless, bug-free masterpiece on day one, it shouldn't exist at all. He feeds entirely on your fear of criticism. Defeating this Grandmaster requires the ultimate act of developer courage: clicking the 'Publish' button on a build that is simply "good enough."
+[END]
+[LORE7:
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:MAX_HP | VAL:4.5 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:ATK_DMG | VAL:1.5 | TITLE:The Obsidian Perfectionist]
+[HUNTED:333 | LORE:3 | STAT:MAX_HP | VAL:22.5 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:ASPD | VAL:1.5% | TITLE:NULL]
+[HUNTED:6666 | LORE:5 | STAT:MAX_HP | VAL:90 | TITLE:NULL]
+[HUNTED:33333 | LORE:6 | STAT:CRIT_RATE | VAL:1.5% | TITLE:NULL]
+[HUNTED:99999 | LORE:NULL | STAT:CRIT_DMG | VAL:3.75% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The Flawed Finisher]
+
+[FILENAME: G6]
+[RACE: GOBLIN]
+[SIZE: 92.5]
+[NAME: Karn]
+[TITLE: The Burnout Behemoth]
+[RANK: LEGEND]
+
+[LORE1:
+Karn has abandoned all biological weakness. Fusing his flesh with cursed, crimson-glowing cybernetics, he is no longer a mere scavenger or tinkerer. He is a warlord of the ruined wastes, driven by a pulsating red core that pumps liquid malice directly into his veins.
+[END]
+[LORE2:
+His right arm has been replaced by a massive, hydraulic claw tipped with superheated plasma blades. Karn doesn't need to strategize or lay traps; he simply walks through dungeon walls, tearing heavily armored knights in half with a single, horrifying crunch of his mechanical grip.
+[END]
+[LORE3:
+The red optic sensor replacing his left eye constantly scans for structural weaknesses, calculating the exact amount of force required to shatter a shield. The only warning an adventurer gets before his devastating strike is the high-pitched, whining hum of his chest core overloading.
+[END]
+[LORE4:
+In the grand RPG of your life, Karn is the devastating reality of "Burnout" and "Spaghetti Code Collapse." He doesn't distract you with fun side quests; he attacks when your project has become so massive and tangled that adding one simple feature instantly breaks five other things.
+[END]
+[LORE5:
+He is the physical embodiment of a massive, game-breaking "Null Reference Exception" that you've been trying to fix for fourteen hours straight. His massive claw represents the overwhelming urge to just delete the entire repository, throw your computer out the window, and give up entirely.
+[END]
+[LORE6:
+Karn feeds on sleep deprivation, empty coffee cups, and the despair of a developer who forgot to use version control. Defeating him doesn't require coding harder; it requires the ultimate, legendary discipline of closing the IDE, stepping away from the screen, and getting some actual sleep.
+[END]
+[LORE7:
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:MAX_HP | VAL:4.8 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:ATK_DMG | VAL:1.6 | TITLE:The Burnout Behemoth]
+[HUNTED:333 | LORE:3 | STAT:MAX_HP | VAL:24 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:ASPD | VAL:1.6% | TITLE:NULL]
+[HUNTED:6666 | LORE:5 | STAT:MAX_HP | VAL:96 | TITLE:NULL]
+[HUNTED:33333 | LORE:6 | STAT:CRIT_RATE | VAL:1.6% | TITLE:NULL]
+[HUNTED:99999 | LORE:NULL | STAT:CRIT_DMG | VAL:4% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The Unbreakable Coder]

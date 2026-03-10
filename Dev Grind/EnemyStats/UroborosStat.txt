@@ -1,0 +1,170 @@
+[MAINSTAT]
+[APPEARCHANCE: 35%]
+[HP: 300%]
+[DMG: 100%]
+[CRIT: 100%]
+[ASPD: 200%]
+[BLOCK: 50%]
+[CRITDMG: 100%]
+[STUN: 50%]
+[BARRAGE: 300%]
+[END]
+
+[FILENAME: U1]
+[RACE: UROBOROS]
+[SIZE: 135]
+[NAME: Iter]
+[TITLE: The Serpent of Refactoring]
+[RANK: EXPERT]
+
+[LORE1:
+Iter is a wingless, serpentine construct of dark alloy and exposed wiring, coursing with erratic pink digital energy. It floats effortlessly through the digital void, its long, segmented body weaving in and out of itself in an impossible, endless knot.
+[END]
+[LORE2:
+In the grand RPG of your life, Iter represents the insidious trap of the "Infinite Refactoring Loop." It doesn't attack to destroy your project; it strikes to keep you trapped in a perpetual cycle of making your code "cleaner" without ever actually adding new gameplay.
+[END]
+[LORE3:
+Its staggering 200% Attack Speed and 300% Barrage stats mean it overwhelms you with a flurry of tiny, seemingly productive tasks. You spend three entire days just renaming variables, reorganizing folder structures, and swapping out perfectly fine while loops for for loops.
+[END]
+[LORE4:
+The pink lightning pulsing along its spine represents a recursive function with no base case. You refactor the player controller, which breaks the camera script, so you rewrite the camera, which breaks the UI, so you rebuild the UI... bringing you right back to tweaking the player controller.
+[END]
+[LORE5:
+Defeating this Expert-tier serpent requires snapping out of the trance. You must break the cycle, hit "Commit," close the perfectly functional script, and accept that "perfect code" is an illusion. A released game with messy code always defeats an infinitely polished prototype.
+[END]
+[LORE6:
+[END]
+[LORE7:
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:ATK_DMG | VAL:2.6 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:ASPD | VAL:1.3% | TITLE:The Serpent of Refactoring]
+[HUNTED:333 | LORE:3 | STAT:ATK_DMG | VAL:5.2 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:ASPD | VAL:1.3% | TITLE:NULL]
+[HUNTED:6666 | LORE:5 | STAT:ATK_DMG | VAL:10.4 | TITLE:NULL]
+[HUNTED:33333 | LORE:NULL | STAT:ASPD | VAL:1.3% | TITLE:NULL]
+[HUNTED:99999 | LORE:NULL | STAT:BARRAGE | VAL:2.5% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The Infinite Iterator]
+
+[FILENAME: U2]
+[RACE: UROBOROS]
+[SIZE: 180]
+[NAME: Recursion]
+[TITLE: The Serpent of Infinite Prototyping]
+[RANK: GRANDMASTER]
+
+[LORE1:
+Recursion is a formidable Grandmaster serpent, its heavy dark-metal plating etched with incomplete, glowing schematics. It twists through radiant purple portals of its own making, eternally chasing its blazing, magenta tail but never actually reaching a final destination.
+[END]
+[LORE2:
+In the grand RPG of your life, Recursion represents the vicious cycle of "Tutorial Hell" and "Endless Prototyping." It attacks right when you finish a basic, working prototype for your game, suddenly convincing you that this engine or genre isn't quite right, and you should just start a brand new project from scratch.
+[END]
+[LORE3:
+Its massive Attack Speed and Barrage stats overwhelm you with an endless stream of exciting new ideas. You create dozens of half-baked movement controllers, untextured grey-box levels, and cool tech demos, but the moment the actual hard work of finishing a game begins, Recursion loops you back to day one.
+[END]
+[LORE4:
+The pink flaming tail it chases is the intoxicating rush of starting something new. It feeds on the dopamine of a fresh, empty project file. You never fix bugs, polish UI, or actually publish to the Play Store; you just abandon the project and spawn a new one, trapped in its glowing purple rings.
+[END]
+[LORE5:
+Its presence means your hard drive is a graveyard of folders named "GameTest1", "NewRPG_Final", and "Platformer_Prototype". It tricks you into feeling highly productive while guaranteeing you never actually complete a single, playable title.
+[END]
+[LORE6:
+Defeating this Grandmaster serpent requires you to break the loop. You must stop chasing the blazing tail of a "better idea," pick one single prototype, and drag it across the finish line through the boring, tedious, and difficult final 10% of development.
+[END]
+[LORE7:
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:ATK_DMG | VAL:3 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:ASPD | VAL:1.5% | TITLE:The Serpent of Infinite Prototyping]
+[HUNTED:333 | LORE:3 | STAT:ATK_DMG | VAL:6 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:ASPD | VAL:1.5% | TITLE:NULL]
+[HUNTED:6666 | LORE:5 | STAT:ATK_DMG | VAL:12 | TITLE:NULL]
+[HUNTED:33333 | LORE:6 | STAT:ASPD | VAL:1.5% | TITLE:NULL]
+[HUNTED:99999 | LORE:NULL | STAT:BARRAGE | VAL:2.5% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The Project Finisher]
+
+[FILENAME: U3]
+[RACE: UROBOROS]
+[SIZE: 250]
+[NAME: Aion]
+[TITLE: The Serpent of Eternal Polish]
+[RANK: MYTHIC]
+
+[LORE1:
+Aion is a divine Uroboros of absolute, paralyzing perfection. Encased in master-crafted golden armor and framing its head with a flawless runic halo, it floats in a state of eternal grace. Its tail holds a burning sphere of crystallized ambition that it constantly watches but never consumes.
+[END]
+[LORE2:
+In the grand RPG of your life, Aion represents the paralyzing trap of "Eternal Polish." It descends upon you when your project is 99% finished, blinding you with the radiant, divine truth that the main menu button is exactly two pixels off-center.
+[END]
+[LORE3:
+Its massive Attack Speed doesn't destroy your code; it overwhelms your release schedule. You spend three consecutive weeks rewriting character dialogue that no one will read and tweaking particle opacities from 85% to 83%, absolutely convinced it will make or break the experience.
+[END]
+[LORE4:
+The runic halo represents the sacred, impossible standard of a "Flawless Release." Aion feeds on your fear of negative reviews. It whispers that if you publish the game to the Play Store now, players will mock your slightly unoptimized inventory sorting script.
+[END]
+[LORE5:
+This Mythic entity keeps your project in an eternal state of "coming soon." It turns you from a passionate game developer into a digital janitor, endlessly sweeping a floor that is already clean while the market moves on without you.
+[END]
+[LORE6:
+Defeating this Mythic serpent requires accepting the beauty of imperfection. You must break the runic circle, ignore the burning sphere of "what-ifs," and click the sacred "Publish" button.
+[END]
+[LORE7:
+Only the wisest developers can slay Aion. They realize that a game is never truly finished, only abandoned to the players. Slaying the beast frees your soul to finally let RPG of you exist in the real world.
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:ATK_DMG | VAL:3.4 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:ASPD | VAL:1.7% | TITLE:The Serpent of Eternal Polish]
+[HUNTED:333 | LORE:3 | STAT:ATK_DMG | VAL:6.8 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:ASPD | VAL:1.7% | TITLE:NULL]
+[HUNTED:6666 | LORE:5 | STAT:ATK_DMG | VAL:13.6 | TITLE:NULL]
+[HUNTED:33333 | LORE:6 | STAT:ASPD | VAL:1.7% | TITLE:NULL]
+[HUNTED:99999 | LORE:7 | STAT:BARRAGE | VAL:2.5% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The Publisher]
+
+
+[FILENAME: U4]
+[RACE: UROBOROS]
+[SIZE: 300]
+[NAME: Omni]
+[TITLE: The Serpent of the Everything Game]
+[RANK: TRANSCENDENT]
+
+[LORE1:
+Omni is the ultimate, transcendent manifestation of the Uroboros. Its mechanical body is framed by interlocking, multi-colored runic halos, and its tail is a literal flowing galaxy of infinite possibilities. It creates and consumes digital universes in a single, perpetual breath.
+[END]
+[LORE2:
+In the grand RPG of your life, Omni is the apocalyptic trap of "The Everything Game." It attacks when you decide that your game isn't just an RPG anymore—now it needs farming mechanics, a dating sim, realistic planetary physics, base-building, and a fully simulated global economy.
+[END]
+[LORE3:
+Its cosmic Barrage and Attack Speed represent the sheer volume of disparate systems you are desperately trying to weave together. Instead of making one good game, you are making ten terrible games stacked on top of each other, trapped in an endless loop of trying to make them communicate.
+[END]
+[LORE4:
+The galaxy tail represents the infinite, sprawling 10-year roadmap you've written in your head. You tell yourself that once the procedural universe generator is perfectly synced to the real-time fluid dynamics engine, the game will be a masterpiece.
+[END]
+[LORE5:
+Omni feeds on scope creep of cosmic proportions. It blinds you to the fact that players rarely want a game that does everything poorly; they want a game that does one thing brilliantly. It traps you in an eternal cycle of feature integration.
+[END]
+[LORE6:
+You spend years writing complex data adapters just so your farming system can talk to your spaceship combat system. The codebase loops back on itself in an infinitely complex, unmaintainable knot of transcendent spaghetti code.
+[END]
+[LORE7:
+Slaying this Transcendent serpent requires an act of absolute, ruthless focus. You must shatter the runic rings of infinite features, sever the cosmic tail of the impossible roadmap, and carve out a single, cohesive core gameplay loop.
+[END]
+[LORE8:
+Only a master developer who has achieved true enlightenment can defeat Omni. You learn the final truth of game design: perfection is not achieved when there is nothing left to add, but when there is nothing left to take away.
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:ATK_DMG | VAL:3.6 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:ASPD | VAL:1.8% | TITLE:The Serpent of the Everything Game]
+[HUNTED:333 | LORE:3 | STAT:ATK_DMG | VAL:7.2 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:ASPD | VAL:1.8% | TITLE:NULL]
+[HUNTED:6666 | LORE:5 | STAT:ATK_DMG | VAL:14.4 | TITLE:NULL]
+[HUNTED:33333 | LORE:6 | STAT:ASPD | VAL:1.8% | TITLE:NULL]
+[HUNTED:99999 | LORE:7 | STAT:BARRAGE | VAL:3% | TITLE:NULL]
+[HUNTED:999999 | LORE:8 | STAT:NULL | VAL:0 | TITLE:The Master of Focus]

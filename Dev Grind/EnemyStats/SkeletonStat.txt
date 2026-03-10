@@ -1,0 +1,167 @@
+[MAINSTAT]
+[APPEARCHANCE: 100%]
+[HP: 120%]
+[DMG: 100%]
+[CRIT: 100%]
+[ASPD: 50%]
+[BLOCK: 130%]
+[CRITDMG: 75%]
+[STUN: 125%]
+[BARRAGE: 75%]
+[END]
+
+[FILENAME: B1]
+[RACE: SKELETON]
+[SIZE: 90]
+[NAME: Marrow]
+[TITLE: The Defender of Dead Projects]
+[RANK: APPRENTICE]
+
+[LORE1:
+Marrow is a reanimated collection of brittle bones and rusted iron, held together entirely by dark magic and sheer stubbornness. Wielding a chipped blade and a buckler that has seen better centuries, he lumbers forward with an agonizingly slow, grinding gait, his red eyes burning with hollow determination.
+[END]
+[LORE2:
+In the grand RPG of your life, Marrow is the physical manifestation of "Dead Projects." He doesn't attack quickly—his Attack Speed is a pitiful 50%—but his absurdly high Block makes him incredibly frustrating to deal with. He is the barebones prototype you made three years ago that refuses to stay buried.
+[END]
+[LORE3:
+Whenever you try to start something fresh and exciting, Marrow rattles his rusted sword, demanding you go back and finish that abandoned, half-baked idea. He absorbs your creative energy by forcing you to endlessly defend and justify concepts that died a long time ago.
+[END]
+[LORE4:
+His impenetrable defensive stance represents your rigid refusal to pivot or let go. He feeds entirely on your guilt for moving on to better things. Defeating this undead nuisance requires you to put the past to rest, bury the prototypes that didn't work, and finally focus your energy on a project with a pulse.
+[END]
+[LORE5:
+[END]
+[LORE6:
+[END]
+[LORE7:
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:MAX_HP | VAL:4 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:BLOCK | VAL:0.15% | TITLE:The Defender of Dead Projects]
+[HUNTED:333 | LORE:3 | STAT:MAX_HP | VAL:20 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:BLOCK | VAL:0.25% | TITLE:NULL]
+[HUNTED:6666 | LORE:NULL | STAT:MAX_HP | VAL:90 | TITLE:NULL]
+[HUNTED:33333 | LORE:NULL | STAT:BLOCK | VAL:0.5% | TITLE:NULL]
+[HUNTED:99999 | LORE:NULL | STAT:CRIT_DMG | VAL:2.5% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The Project Undertaker]
+
+
+[FILENAME: B2]
+[RACE: SKELETON]
+[SIZE: 95]
+[NAME: Relic]
+[TITLE: The Sunk-Cost Crusader]
+[RANK: EXPERT]
+
+[LORE1:
+Relic is no longer just a pile of forgotten bones. He has forged discarded bronze into heavy plating and reignited his own decaying ribcage with a burning, volatile core of unnatural energy. He drags a massive, superheated greatsword behind him, refusing to stay in the grave.
+[END]
+[LORE2:
+In the grand RPG of your life, Relic is the overwhelming, crushing weight of the "Sunk Cost Fallacy." He attacks when you realize a game mechanic or project isn't actually fun or working, but you refuse to scrap it because you've already spent three months coding it.
+[END]
+[LORE3:
+His glowing core represents the desperate, misguided passion you keep pumping into a fundamentally flawed idea. Instead of starting fresh, you keep bolting shiny new bronze armor (new features) onto a skeleton (the dead core loop), praying it will suddenly come to life.
+[END]
+[LORE4:
+His combat style is incredibly punishing. Relic absorbs your time with his massive Block stat, soaking up weeks of your life while you try to "fix" the unfixable. When he finally swings that heavy sword, it shatters your motivation, dealing massive damage to your actual, viable projects.
+[END]
+[LORE5:
+Defeating him requires immense developer courage. You must look at the glowing, burning core of your 300-hour abandoned project, accept that the time is gone forever, and finally put the sword down. Cut your losses, bury the skeleton, and move on.
+[END]
+[LORE6:
+[END]
+[LORE7:
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:MAX_HP | VAL:4.7 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:BLOCK | VAL:0.18% | TITLE:The Sunk-Cost Crusader]
+[HUNTED:333 | LORE:3 | STAT:MAX_HP | VAL:23.6 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:BLOCK | VAL:0.3% | TITLE:NULL]
+[HUNTED:6666 | LORE:5 | STAT:MAX_HP | VAL:106.4 | TITLE:NULL]
+[HUNTED:33333 | LORE:NULL | STAT:BLOCK | VAL:0.6% | TITLE:NULL]
+[HUNTED:99999 | LORE:NULL | STAT:CRIT_DMG | VAL:3% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The Loss Cutter]
+
+[FILENAME: B3]
+[RACE: SKELETON]
+[SIZE: 100]
+[NAME: Vex]
+[TITLE: The Lich of Infinite Scope]
+[RANK: GRANDMASTER]
+
+[LORE1:
+Vex has transcended mere bones and rusted scrap. Clad in enchanted void-armor, he wields a crystalline greatsword and channels a swirling orb of pure, dark singularity. He is a Grandmaster of undeath, commanding the dark arcane arts with cold, terrifying precision.
+[END]
+[LORE2:
+In the grand RPG of your life, Vex is the terrifying embodiment of "Infinite Scope." He doesn't just keep dead projects alive; he resurrects them into horrifying, bloated monstrosities. He attacks when you have a perfectly simple game loop, whispering that it needs a massive, interconnected universe.
+[END]
+[LORE3:
+The dark orb he wields represents the black hole of endless features. Why just have a simple shop interface when you could code a fully simulated, player-driven global economy with real-time faction wars? Vex feeds on your inability to say "no" to a cool idea.
+[END]
+[LORE4:
+His combat strategy relies on his crushing Block and Stun stats. He paralyzes your daily progress by forcing you to rewrite your entire database schema to accommodate a 50-tier crafting system that you haven't even designed the UI for yet.
+[END]
+[LORE5:
+Every time you try to finish the game, he just resurrects the project with even more bloated requirements. "It's not just a mobile game," he hisses from the void, "it's a revolutionary lifestyle platform." He makes reaching the finish line mathematically impossible.
+[END]
+[LORE6:
+Defeating this Grandmaster Lich requires an iron-clad Design Document and zero mercy. You must shatter the orb of infinite possibilities, banish the MMO dreams back to the void, and ruthlessly cut everything that isn't your core gameplay loop.
+[END]
+[LORE7:
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:MAX_HP | VAL:6 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:BLOCK | VAL:0.225% | TITLE:The Lich of Infinite Scope]
+[HUNTED:333 | LORE:3 | STAT:MAX_HP | VAL:30 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:BLOCK | VAL:0.375% | TITLE:NULL]
+[HUNTED:6666 | LORE:5 | STAT:MAX_HP | VAL:135 | TITLE:NULL]
+[HUNTED:33333 | LORE:6 | STAT:BLOCK | VAL:0.75% | TITLE:NULL]
+[HUNTED:99999 | LORE:NULL | STAT:CRIT_DMG | VAL:3.75% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The Scope Slayer]
+
+
+[FILENAME: B4]
+[RACE: SKELETON]
+[SIZE: 105]
+[NAME: Axiom]
+[TITLE: The Oracle of Over-Architecture]
+[RANK: MYTHIC]
+
+[LORE1:
+Axiom is an undead entity that has completely ascended beyond the need for flesh, or even practical utility. His bones are forged from impenetrable dark metal, and his soul is an impossibly complex, glowing geometric orb of pure theoretical magic.
+[END]
+[LORE2:
+In the grand RPG of your life, Axiom is the holy terror of "Over-Architecture" and "Design Pattern Dogma." He doesn't care if your game loop is actually fun or if it compiles; he only cares if your code strictly adheres to the sacred texts of theoretical computer science.
+[END]
+[LORE3:
+Floating behind him are the divine halos of Abstraction. Axiom attacks when you have a simple, working script, blinding you with the radiant, icy truth that your code isn't perfectly modular, entirely decoupled, and infinitely scalable for a billion users you don't even have.
+[END]
+[LORE4:
+His combat strategy revolves around freezing your progress with his glacial sword. You spend three weeks creating base classes, interfaces, and event managers for a single treasure chest that just needs to open when the player taps on it.
+[END]
+[LORE5:
+He absorbs all your motivation with his massive Block stat, deflecting any attempts to just "hardcode it and move on." Axiom insists that hardcoding is a sin against the machine gods, forcing you to write a generic, dynamic state machine for a door that only has two states.
+[END]
+[LORE6:
+Defeating this Mythic horror requires you to commit absolute heresy. You must shatter the glowing orb of perfect abstraction, ignore the divine halos of scalability, and accept that sometimes, a messy if/else statement is all you actually need to make the game work.
+[END]
+[LORE7:
+Only the most hardened developers can slay Axiom and walk away with their sanity intact. You realize that the "perfect architecture" is an illusion, and a released game with spaghetti code will always defeat an unpublished masterpiece of software engineering.
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:MAX_HP | VAL:6.8 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:BLOCK | VAL:0.255% | TITLE:The Oracle of Over-Architecture]
+[HUNTED:333 | LORE:3 | STAT:MAX_HP | VAL:34 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:BLOCK | VAL:0.425% | TITLE:NULL]
+[HUNTED:6666 | LORE:5 | STAT:MAX_HP | VAL:153 | TITLE:NULL]
+[HUNTED:33333 | LORE:6 | STAT:BLOCK | VAL:0.85% | TITLE:NULL]
+[HUNTED:99999 | LORE:7 | STAT:CRIT_DMG | VAL:4.25% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The Heretic of Hardcoding]

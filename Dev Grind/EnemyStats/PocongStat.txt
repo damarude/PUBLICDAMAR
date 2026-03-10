@@ -1,0 +1,164 @@
+[MAINSTAT]
+[APPEARCHANCE: 15%]
+[HP: 200%]
+[DMG: 50%]
+[CRIT: 100%]
+[ASPD: 100%]
+[BLOCK: 100%]
+[CRITDMG: 100%]
+[STUN: 100%]
+[BARRAGE: 100%]
+[END]
+
+
+[FILENAME: P1]
+[RACE: POCONG]
+[SIZE: 90]
+[NAME: Buntel]
+[TITLE: The Shroud of Side-Gigs]
+[RANK: NOVICE]
+
+[LORE1:
+Buntel is a restless spirit, tightly bound in a weathered, frayed shroud tied at the head and feet. With no arms or legs free, it travels by hopping erratically through the shadows. It rarely appears (15% Appearance), but its presence is always betrayed by the heavy jingle of coins hidden deep within its wrappings.
+[END]
+[LORE2:
+In the grand RPG of your life, Buntel is the manifestation of the "Side-Hustle Trap." It hops into your path right when you are making steady progress on your cross-platform codebase, tempting you with the promise of some quick, easy gold from a minor freelance gig or a small client request.
+[END]
+[LORE3:
+You engage it thinking it will be a fast victory, but its massive 200% HP pool reveals the terrifying truth: this "quick weekend gig" is going to drag on for an entire month. It doesn't deal much damage to your skills, but it completely paralyzes your momentum on your own project.
+[END]
+[LORE4:
+By the time you finally untie the knots, claim the gold, and return to your mobile app, you've completely forgotten how your own save system works. Defeating this Novice spirit requires the discipline to sometimes turn down a quick payout to stay entirely focused on your true vision.
+[END]
+[LORE5:
+[END]
+[LORE6:
+[END]
+[LORE7:
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:MAX_HP | VAL:6 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:GOLD | VAL:2.5% | TITLE:The Shroud of Side-Gigs]
+[HUNTED:333 | LORE:3 | STAT:MAX_HP | VAL:30 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:GOLD | VAL:5% | TITLE:NULL]
+[HUNTED:6666 | LORE:NULL | STAT:MAX_HP | VAL:120 | TITLE:NULL]
+[HUNTED:33333 | LORE:NULL | STAT:GOLD | VAL:15% | TITLE:NULL]
+[HUNTED:99999 | LORE:NULL | STAT:CRIT_DMG | VAL:2.5% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The Focused Founder]
+
+[FILENAME: P2]
+[RACE: POCONG]
+[SIZE: 100]
+[NAME: Bind]
+[TITLE: The Shroud of Scope Creep]
+[RANK: PROFESSIONAL]
+
+[LORE1:
+Bind is a digital anomaly wrapped in a traditional, frayed burial shroud. Instead of dirt and decay, its tight bindings pulse with glowing pink circuitry and corrupted data streams. Its hollow pink eyes stare blankly as it hops relentlessly toward your workstation, bringing the heavy dread of endless revisions.
+[END]
+[LORE2:
+In the grand RPG of your life, Bind represents the absolute nightmare of "Client Scope Creep." It attacks when a seemingly simple freelance contract mutates into a massive, multi-month ordeal because the client keeps sending emails that start with, "Looks great, but can we just add one more quick feature..."
+[END]
+[LORE3:
+The glowing pink lines woven into its fabric represent iron-clad NDAs and endless feedback loops. You can't even showcase this grueling work on your personal portfolio website. It just hops around, demanding more of your time while paying you the exact same flat rate.
+[END]
+[LORE4:
+Its massive HP pool is a grueling test of endurance. Every time you think you've defeated it and delivered the final build, it instantly regenerates its health with a new list of minor UI tweaks. It pays out good Gold, but entirely drains your creative spirit.
+[END]
+[LORE5:
+This Professional-tier ghost bribes you with money while completely stalling the progress of your own mobile game. Defeating Bind requires learning the most powerful spell in the freelance developer's arsenal: looking the client in the eye and saying, "No, that is outside the original project scope."
+[END]
+[LORE6:
+[END]
+[LORE7:
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:MAX_HP | VAL:7.2 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:GOLD | VAL:3% | TITLE:The Shroud of Scope Creep]
+[HUNTED:333 | LORE:3 | STAT:MAX_HP | VAL:36 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:GOLD | VAL:6% | TITLE:NULL]
+[HUNTED:6666 | LORE:5 | STAT:MAX_HP | VAL:144 | TITLE:NULL]
+[HUNTED:33333 | LORE:NULL | STAT:GOLD | VAL:18% | TITLE:NULL]
+[HUNTED:99999 | LORE:NULL | STAT:CRIT_DMG | VAL:3% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The Scope Enforcer]
+
+[FILENAME: P3]
+[RACE: POCONG]
+[SIZE: 110]
+[NAME: Tether]
+[TITLE: The Shroud of Golden Handcuffs]
+[RANK: MASTER]
+
+[LORE1:
+Tether has evolved from a simple restless spirit into a fully integrated corporate drone. Its frayed burial shroud is now reinforced with heavy, restrictive mechanical plating, and dozens of high-speed data cables snake directly into its skull, constantly siphoning its creative energy.
+[END]
+[LORE2:
+In the grand RPG of your life, Tether is the suffocating reality of "The Golden Handcuffs." It strikes right when you are making serious progress on your personal cross-platform project, dropping a massive, high-paying enterprise contract or a demanding senior-level promotion right in your lap.
+[END]
+[LORE3:
+The glowing yellow circuitry and cables represent constant, 24/7 connectivity. You aren't just doing a side gig anymore; you are fully plugged into their system. It hops into your life, paralyzing your free time with endless meetings, instant message pings, and "urgent" weekend server maintenance.
+[END]
+[LORE4:
+Its combat strategy is incredibly insidious because it doesn't destroy you; it pays you incredibly well. The Gold drops are massive, but the Stun effect is absolute. Your personal indie game gathers dust while you spend 60 hours a week optimizing someone else's infrastructure.
+[END]
+[LORE5:
+Tether makes you comfortable. It whispers that you can just finish your own game "next year" when things slow down. But the cables never stop transmitting. Defeating this Master-tier phantom requires a terrifying leap of faith: severing the data lines, rejecting the safe money, and finally betting entirely on yourself.
+[END]
+[LORE6:
+[END]
+[LORE7:
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:MAX_HP | VAL:8.4 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:GOLD | VAL:3.5% | TITLE:The Shroud of Golden Handcuffs]
+[HUNTED:333 | LORE:3 | STAT:MAX_HP | VAL:42 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:GOLD | VAL:7% | TITLE:NULL]
+[HUNTED:6666 | LORE:5 | STAT:MAX_HP | VAL:168 | TITLE:NULL]
+[HUNTED:33333 | LORE:NULL | STAT:GOLD | VAL:21% | TITLE:NULL]
+[HUNTED:99999 | LORE:NULL | STAT:CRIT_DMG | VAL:3.5% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The Unplugged Creator]
+
+[FILENAME: P4]
+[RACE: POCONG]
+[SIZE: 120]
+[NAME: Contract]
+[TITLE: The Faustian Publisher]
+[RANK: LEGEND]
+
+[LORE1:
+Contract has evolved into a heavily militarized, hyper-aggressive corporate entity. Bound in a blackened shroud, it is bolted into a terrifying chassis of dark metal and crimson lightning. A halo of spiked neural-tethers jacks directly into its head, violently hijacking its will.
+[END]
+[LORE2:
+In the grand RPG of your life, Contract is the nightmare of a "Predatory Publisher Deal." It hops into your life right when your indie game starts getting traction, promising massive marketing budgets and infinite gold in exchange for "just a little bit of creative control."
+[END]
+[LORE3:
+The red glowing tethers represent the forced integration of aggressive monetization. It paralyzes your passion project, demanding you rip out your carefully balanced systems to bolt on daily login rewards, premium currencies, and pay-to-win mechanics.
+[END]
+[LORE4:
+It wields massive mechanical fists, but it doesn't use them to fight your enemies; it uses them to crush your original vision. You wanted a cozy, single-player experience, but the contract mandates a live-service multiplayer battle royale with a battle pass.
+[END]
+[LORE5:
+Its massive HP and Gold drop rates represent the sheer, paralyzing weight of a massive budget. The money is incredible, but the stress of daily milestone deliverables, rigid deadlines, and board meetings is turning your dream game into a miserable corporate product.
+[END]
+[LORE6:
+Defeating this Legend-tier horror requires the ultimate developer sacrifice: buying out your own contract. You must sever the red tethers, reject the endless funding, and reclaim your intellectual property before it is completely destroyed by executive greed.
+[END]
+[LORE7:
+[END]
+[LORE8:
+[END]
+
+[HUNTED:9 | LORE:2 | STAT:MAX_HP | VAL:9.6 | TITLE:NULL]
+[HUNTED:66 | LORE:NULL | STAT:GOLD | VAL:4% | TITLE:The Faustian Publisher]
+[HUNTED:333 | LORE:3 | STAT:MAX_HP | VAL:48 | TITLE:NULL]
+[HUNTED:999 | LORE:4 | STAT:GOLD | VAL:8% | TITLE:NULL]
+[HUNTED:6666 | LORE:5 | STAT:MAX_HP | VAL:192 | TITLE:NULL]
+[HUNTED:33333 | LORE:6 | STAT:GOLD | VAL:24% | TITLE:NULL]
+[HUNTED:99999 | LORE:NULL | STAT:CRIT_DMG | VAL:4% | TITLE:NULL]
+[HUNTED:999999 | LORE:NULL | STAT:NULL | VAL:0 | TITLE:The Indie Reclaimer]
