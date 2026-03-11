@@ -131,15 +131,15 @@ Only the wisest developers can slay Aion. They realize that a game is never trul
 [FILENAME: U4]
 [RACE: UROBOROS]
 [SIZE: 300]
-[NAME: Omni]
+[NAME: Vyxoz]
 [TITLE: The Serpent of the Everything Game]
 [RANK: TRANSCENDENT]
 
 [LORE1:
-Omni is the ultimate, transcendent manifestation of the Uroboros. Its mechanical body is framed by interlocking, multi-colored runic halos, and its tail is a literal flowing galaxy of infinite possibilities. It creates and consumes digital universes in a single, perpetual breath.
+Vyxoz is the ultimate, transcendent manifestation of the Uroboros. Its mechanical body is framed by interlocking, multi-colored runic halos, and its tail is a literal flowing galaxy of infinite possibilities. It creates and consumes digital universes in a single, perpetual breath.
 [END]
 [LORE2:
-In the grand RPG of your life, Omni is the apocalyptic trap of "The Everything Game." It attacks when you decide that your game isn't just an RPG anymore—now it needs farming mechanics, a dating sim, realistic planetary physics, base-building, and a fully simulated global economy.
+In the grand RPG of your life, Vyxoz is the apocalyptic trap of "The Everything Game." It attacks when you decide that your game isn't just an RPG anymore—now it needs farming mechanics, a dating sim, realistic planetary physics, base-building, and a fully simulated global economy.
 [END]
 [LORE3:
 Its cosmic Barrage and Attack Speed represent the sheer volume of disparate systems you are desperately trying to weave together. Instead of making one good game, you are making ten terrible games stacked on top of each other, trapped in an endless loop of trying to make them communicate.
@@ -148,7 +148,7 @@ Its cosmic Barrage and Attack Speed represent the sheer volume of disparate syst
 The galaxy tail represents the infinite, sprawling 10-year roadmap you've written in your head. You tell yourself that once the procedural universe generator is perfectly synced to the real-time fluid dynamics engine, the game will be a masterpiece.
 [END]
 [LORE5:
-Omni feeds on scope creep of cosmic proportions. It blinds you to the fact that players rarely want a game that does everything poorly; they want a game that does one thing brilliantly. It traps you in an eternal cycle of feature integration.
+Vyxoz feeds on scope creep of cosmic proportions. It blinds you to the fact that players rarely want a game that does everything poorly; they want a game that does one thing brilliantly. It traps you in an eternal cycle of feature integration.
 [END]
 [LORE6:
 You spend years writing complex data adapters just so your farming system can talk to your spaceship combat system. The codebase loops back on itself in an infinitely complex, unmaintainable knot of transcendent spaghetti code.
@@ -157,7 +157,7 @@ You spend years writing complex data adapters just so your farming system can ta
 Slaying this Transcendent serpent requires an act of absolute, ruthless focus. You must shatter the runic rings of infinite features, sever the cosmic tail of the impossible roadmap, and carve out a single, cohesive core gameplay loop.
 [END]
 [LORE8:
-Only a master developer who has achieved true enlightenment can defeat Omni. You learn the final truth of game design: perfection is not achieved when there is nothing left to add, but when there is nothing left to take away.
+Only a master developer who has achieved true enlightenment can defeat Vyxoz. You learn the final truth of game design: perfection is not achieved when there is nothing left to add, but when there is nothing left to take away.
 [END]
 
 [HUNTED:9 | LORE:2 | STAT:ATK_DMG | VAL:3.6 | TITLE:NULL]
