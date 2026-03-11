@@ -12,7 +12,7 @@
 
 [FILENAME: O1]
 [RACE: ORC]
-[SIZE: 115]
+[SIZE: 135]
 [NAME: Lug]
 [TITLE: The Brute of Inefficiency]
 [RANK: APPRENTICE]
@@ -49,7 +49,7 @@ He is the dark urge to manually write out 500 lines of repetitive if/else statem
 
 [FILENAME: O2]
 [RACE: ORC]
-[SIZE: 120]
+[SIZE: 160]
 [NAME: Scrap]
 [TITLE: The Bloatware Behemoth]
 [RANK: PROFESSIONAL]
@@ -87,7 +87,7 @@ Scrap genuinely believes that heavier armor makes him a better warrior, just lik
 
 [FILENAME: O3]
 [RACE: ORC]
-[SIZE: 125]
+[SIZE: 175]
 [NAME: Krag]
 [TITLE: The Legacy Monolith]
 [RANK: MASTER]
@@ -125,7 +125,7 @@ He constantly vents exhaust from his shoulders, a warning that the server is alw
 
 [FILENAME: O4]
 [RACE: ORC]
-[SIZE: 130]
+[SIZE: 160]
 [NAME: Throk]
 [TITLE: The Warlord of Crunch Time]
 [RANK: LEGEND]
@@ -164,7 +164,7 @@ Defeating this Legend-tier Warlord requires setting absolute boundaries. You mus
 
 [FILENAME: O5]
 [RACE: ORC]
-[SIZE: 135]
+[SIZE: 165]
 [NAME: Gromm]
 [TITLE: The Sovereign of Reinvention]
 [RANK: MYTHIC]

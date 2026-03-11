@@ -12,7 +12,7 @@
 
 [FILENAME: S1]
 [RACE: SLIME]
-[SIZE: 80]
+[SIZE: 100]
 [NAME: Glurp]
 [TITLE: The Puddle of Brain Fog]
 [RANK: NOVICE]
@@ -49,7 +49,7 @@ As you study its gooey patterns, you realize Glurp thrives on dehydration, terri
 
 [FILENAME: S2]
 [RACE: SLIME]
-[SIZE: 82.5]
+[SIZE: 105]
 [NAME: Cache]
 [TITLE: The Gelatinous Clutter]
 [RANK: APPRENTICE]
@@ -86,7 +86,7 @@ As you study its sluggish movements, you realize this slime feeds entirely on th
 
 [FILENAME: S3]
 [RACE: SLIME]
-[SIZE: 85]
+[SIZE: 125]
 [NAME: Flux]
 [TITLE: The Ooze of Technical Debt]
 [RANK: EXPERT]
@@ -124,7 +124,7 @@ It jiggles menacingly, whispering that it's too late to refactor and urging you 
 
 [FILENAME: S4]
 [RACE: SLIME]
-[SIZE: 87.5]
+[SIZE: 120]
 [NAME: Nexus]
 [TITLE: The Mass of Dependency Hell]
 [RANK: MASTER]
@@ -162,7 +162,7 @@ It jiggles with cosmic mockery, whispering that you need just one more framework
 
 [FILENAME: S5]
 [RACE: SLIME]
-[SIZE: 92.5]
+[SIZE: 135]
 [NAME: Fatalis]
 [TITLE: The Ooze of Fatal Exceptions]
 [RANK: LEGEND]
@@ -202,7 +202,7 @@ Defeating this Legend-tier nightmare is not about coding faster; it is about cri
 
 [FILENAME: S6]
 [RACE: SLIME]
-[SIZE: 97.5]
+[SIZE: 170]
 [NAME: Omnis]
 [TITLE: The Divine Rewrite]
 [RANK: TRANSCENDENT]

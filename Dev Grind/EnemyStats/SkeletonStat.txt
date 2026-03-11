@@ -12,7 +12,7 @@
 
 [FILENAME: B1]
 [RACE: SKELETON]
-[SIZE: 90]
+[SIZE: 110]
 [NAME: Marrow]
 [TITLE: The Defender of Dead Projects]
 [RANK: APPRENTICE]
@@ -50,7 +50,7 @@ His impenetrable defensive stance represents your rigid refusal to pivot or let 
 
 [FILENAME: B2]
 [RACE: SKELETON]
-[SIZE: 95]
+[SIZE: 120]
 [NAME: Relic]
 [TITLE: The Sunk-Cost Crusader]
 [RANK: EXPERT]
@@ -88,7 +88,7 @@ Defeating him requires immense developer courage. You must look at the glowing, 
 
 [FILENAME: B3]
 [RACE: SKELETON]
-[SIZE: 100]
+[SIZE: 130]
 [NAME: Vex]
 [TITLE: The Lich of Infinite Scope]
 [RANK: GRANDMASTER]
@@ -128,7 +128,7 @@ Defeating this Grandmaster Lich requires an iron-clad Design Document and zero m
 
 [FILENAME: B4]
 [RACE: SKELETON]
-[SIZE: 105]
+[SIZE: 145]
 [NAME: Axiom]
 [TITLE: The Oracle of Over-Architecture]
 [RANK: MYTHIC]

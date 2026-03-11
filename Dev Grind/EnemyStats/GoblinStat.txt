@@ -12,7 +12,7 @@
 
 [FILENAME: G1]
 [RACE: GOBLIN]
-[SIZE: 80]
+[SIZE: 95]
 [NAME: Brak]
 [TITLE: The Ankle-Biter of the Outer Woods]
 [RANK: NOVICE]
@@ -49,7 +49,7 @@ As you study his patterns, you realize Brak thrives on "productive procrastinati
 
 [FILENAME: G2]
 [RACE: GOBLIN]
-[SIZE: 82.5]
+[SIZE: 97]
 [NAME: Tink]
 [TITLE: The Overclocked Saboteur]
 [RANK: PROFESSIONAL]
@@ -87,7 +87,7 @@ He hits you with a barrage of sudden urges, like abandoning your perfectly fine 
 
 [FILENAME: G3]
 [RACE: GOBLIN]
-[SIZE: 85]
+[SIZE: 99]
 [NAME: Slink]
 [TITLE: The Tutorial Scavenger]
 [RANK: EXPERT]
@@ -125,7 +125,7 @@ He whispers from the shadows that you aren't ready yet. "Just watch one more 4-h
 
 [FILENAME: G4]
 [RACE: GOBLIN]
-[SIZE: 87.5]
+[SIZE: 105]
 [NAME: Cypher]
 [TITLE: The Architect of Over-Engineering]
 [RANK: MASTER]
@@ -163,7 +163,7 @@ He hits you with the paralyzing urge to build a massive, custom physics engine o
 
 [FILENAME: G5]
 [RACE: GOBLIN]
-[SIZE: 90]
+[SIZE: 110]
 [NAME: Null]
 [TITLE: The Obsidian Perfectionist]
 [RANK: GRANDMASTER]
@@ -202,7 +202,7 @@ Null convinces you that if your game isn't a flawless, bug-free masterpiece on d
 
 [FILENAME: G6]
 [RACE: GOBLIN]
-[SIZE: 92.5]
+[SIZE: 125]
 [NAME: Karn]
 [TITLE: The Burnout Behemoth]
 [RANK: LEGEND]

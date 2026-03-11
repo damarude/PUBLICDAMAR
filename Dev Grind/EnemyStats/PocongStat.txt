@@ -13,7 +13,7 @@
 
 [FILENAME: P1]
 [RACE: POCONG]
-[SIZE: 90]
+[SIZE: 110]
 [NAME: Buntel]
 [TITLE: The Shroud of Side-Gigs]
 [RANK: NOVICE]
@@ -50,7 +50,7 @@ By the time you finally untie the knots, claim the gold, and return to your mobi
 
 [FILENAME: P2]
 [RACE: POCONG]
-[SIZE: 100]
+[SIZE: 115]
 [NAME: Bind]
 [TITLE: The Shroud of Scope Creep]
 [RANK: PROFESSIONAL]
@@ -88,7 +88,7 @@ This Professional-tier ghost bribes you with money while completely stalling the
 
 [FILENAME: P3]
 [RACE: POCONG]
-[SIZE: 110]
+[SIZE: 130]
 [NAME: Tether]
 [TITLE: The Shroud of Golden Handcuffs]
 [RANK: MASTER]
@@ -126,7 +126,7 @@ Tether makes you comfortable. It whispers that you can just finish your own game
 
 [FILENAME: P4]
 [RACE: POCONG]
-[SIZE: 120]
+[SIZE: 150]
 [NAME: Contract]
 [TITLE: The Faustian Publisher]
 [RANK: LEGEND]
