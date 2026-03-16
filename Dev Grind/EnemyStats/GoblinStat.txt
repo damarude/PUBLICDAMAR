@@ -3,7 +3,7 @@
 [HP: 80%]
 [DMG: 50%]
 [CRIT: 120%]
-[ASPD: 150%]
+[ASPD: 200%]
 [BLOCK: 20%]
 [CRITDMG: 75%]
 [STUN: 25%]
