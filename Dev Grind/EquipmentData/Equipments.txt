@@ -2637,7 +2637,7 @@ ACCESSORY - CritRate (%) (Same as original)
 [END]
 
 [SLOT:Accessory]
-[NAME:Universal Unlucky Coin (Heads You Win, Tails You Also Win)]
+[NAME:Universal Unlucky Traverse]
 [RANK:World]
 [COST:260000000]
 [MAINSTAT:CritRate +42.5%]
@@ -2653,7 +2653,7 @@ ACCESSORY - CritRate (%) (Same as original)
 [END]
 
 [SLOT:Accessory]
-[NAME:Omniversal Amulet of Absolute Advantage]
+[NAME:Omniversal Ring of Absolute Advantage]
 [RANK:World]
 [COST:420000000]
 [MAINSTAT:CritRate +50%]
