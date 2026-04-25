@@ -391,7 +391,7 @@
 
 [WORLD - 3 items]
 [SLOT:Head]
-[NAME:World-Serpent's Tax Shelter]
+[NAME:World-Serpent's Tax Deep Crown]
 [RANK:World]
 [COST:100000000]
 [MAINSTAT:Heal +15.5%]
